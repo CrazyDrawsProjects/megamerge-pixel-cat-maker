@@ -15694,78 +15694,78 @@
     "xOffset": 450,
     "yOffset": 700
   },
-  "bowsCRIMSONBOWS": {
-    "spritesheet": "bows",
+  "collarsCRIMSONBOWS": {
+    "spritesheet": "collars",
     "xOffset": 0,
     "yOffset": 0
   },
-  "bowsBLUEBOWS": {
-    "spritesheet": "bows",
+  "collarsBLUEBOWS": {
+    "spritesheet": "collars",
     "xOffset": 150,
     "yOffset": 0
   },
-  "bowsYELLOWBOWS": {
-    "spritesheet": "bows",
+  "collarsYELLOWBOWS": {
+    "spritesheet": "collars",
     "xOffset": 300,
     "yOffset": 0
   },
-  "bowsCYANBOWS": {
-    "spritesheet": "bows",
+  "collarsCYANBOWS": {
+    "spritesheet": "collars",
     "xOffset": 450,
     "yOffset": 0
   },
-  "bowsREDBOWS": {
-    "spritesheet": "bows",
+  "collarsREDBOWS": {
+    "spritesheet": "collars",
     "xOffset": 600,
     "yOffset": 0
   },
-  "bowsLIMEBOWS": {
-    "spritesheet": "bows",
+  "collarsLIMEBOWS": {
+    "spritesheet": "collars",
     "xOffset": 750,
     "yOffset": 0
   },
-  "bowsGREENBOWS": {
-    "spritesheet": "bows",
+  "collarsGREENBOWS": {
+    "spritesheet": "collars",
     "xOffset": 0,
     "yOffset": 350
   },
-  "bowsRAINBOWBOWS": {
-    "spritesheet": "bows",
+  "collarsRAINBOWBOWS": {
+    "spritesheet": "collars",
     "xOffset": 150,
     "yOffset": 350
   },
-  "bowsBLACKBOWS": {
-    "spritesheet": "bows",
+  "collarsBLACKBOWS": {
+    "spritesheet": "collars",
     "xOffset": 300,
     "yOffset": 350
   },
-  "bowsSPIKESBOWS": {
-    "spritesheet": "bows",
+  "collarsSPIKESBOWS": {
+    "spritesheet": "collars",
     "xOffset": 450,
     "yOffset": 350
   },
-  "bowsWHITEBOWS": {
-    "spritesheet": "bows",
+  "collarsWHITEBOWS": {
+    "spritesheet": "collars",
     "xOffset": 600,
     "yOffset": 350
   },
-  "bowsPINKBOWS": {
-    "spritesheet": "bows",
+  "collarsPINKBOWS": {
+    "spritesheet": "collars",
     "xOffset": 0,
     "yOffset": 700
   },
-  "bowsPURPLEBOWS": {
-    "spritesheet": "bows",
+  "collarsPURPLEBOWS": {
+    "spritesheet": "collars",
     "xOffset": 150,
     "yOffset": 700
   },
-  "bowsMULTIBOWS": {
-    "spritesheet": "bows",
+  "collarsMULTIBOWS": {
+    "spritesheet": "collars",
     "xOffset": 300,
     "yOffset": 700
   },
-  "bowsINDIGOBOWS": {
-    "spritesheet": "bows",
+  "collarsINDIGOBOWS": {
+    "spritesheet": "collars",
     "xOffset": 450,
     "yOffset": 700
   },
