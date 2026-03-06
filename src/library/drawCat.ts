@@ -295,7 +295,37 @@ async function drawCat(
       await drawSprite(`acc_wild${pelt.accessory}`, catSprite, ctx);
     } else if (peltInfo.collars.includes(pelt.accessory)) {
       await drawSprite(`collars${pelt.accessory}`, catSprite, ctx);
-    }
+    } else if (peltInfo.bone_accessories.includes(pelt.accessory)) {
+      await drawSprite(`acc_bones${pelt.accessory}`, catSprite, ctx);
+    } else if (peltInfo.butterflies_accessories.includes(pelt.accessory)) {
+      await drawSprite(`acc_butterflymoth${pelt.accessory}`, catSprite, ctx);
+    } else if (peltInfo.stuff_accessories.includes(pelt.accessory)) {
+      await drawSprite(`acc_twolegstuff${pelt.accessory}`, catSprite, ctx);
+    } else if (peltInfo.beetle_accessories.includes(pelt.accessory)) {
+      await drawSprite(`acc_beetle${pelt.accessory}`, catSprite, ctx);
+    } else if (peltInfo.beetle_feathers_accessories.includes(pelt.accessory)) {
+      await drawSprite(`acc_beetlefeathers${pelt.accessory}`, catSprite, ctx);
+    } else if (peltInfo.ster_accessories.includes(pelt.accessory)) {
+      await drawSprite(`acc_ster${pelt.accessory}`, catSprite, ctx);
+    } else if (peltInfo.plant2_accessories.includes(pelt.accessory)) {
+      await drawSprite(`acc_plant2${pelt.accessory}`, catSprite, ctx);
+    } else if (peltInfo.snake_accessories.includes(pelt.accessory)) {
+      await drawSprite(`acc_snake${pelt.accessory}`, catSprite, ctx);
+    } else if (peltInfo.smallanimal_accessories.includes(pelt.accessory)) {
+      await drawSprite(`acc_smallAnimal${pelt.accessory}`, catSprite, ctx);
+    } else if (peltInfo.deadinsect_accessories.includes(pelt.accessory)) {
+      await drawSprite(`acc_deadInsect${pelt.accessory}`, catSprite, ctx);
+    } else if (peltInfo.aliveinsect_accessories.includes(pelt.accessory)) {
+      await drawSprite(`acc_aliveInsect${pelt.accessory}`, catSprite, ctx);
+    } else if (peltInfo.random_accessories.includes(pelt.accessory)) {
+      await drawSprite(`acc_random${pelt.accessory}`, catSprite, ctx);
+    } else if (peltInfo.fruit_accessories.includes(pelt.accessory)) {
+      await drawSprite(`acc_fruit${pelt.accessory}`, catSprite, ctx);
+    } else if (peltInfo.sailormoon_accessories.includes(pelt.accessory)) {
+      await drawSprite(`acc_sailor${pelt.accessory}`, catSprite, ctx);
+    } else if (peltInfo.crafted_accessories.includes(pelt.accessory)) {
+      await drawSprite(`acc_crafted${pelt.accessory}`, catSprite, ctx);
+    } 
   }
 
   outCtx.clearRect(0, 0, outCanvas.width, outCanvas.height);
