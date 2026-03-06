@@ -14058,5 +14058,2635 @@
     "spritesheet": "skin",
     "xOffset": 750,
     "yOffset": 700
+  },
+  "scarsONE": {
+    "spritesheet": "scars",
+    "xOffset": 0,
+    "yOffset": 0
+  },
+  "scarsTWO": {
+    "spritesheet": "scars",
+    "xOffset": 150,
+    "yOffset": 0
+  },
+  "scarsTHREE": {
+    "spritesheet": "scars",
+    "xOffset": 300,
+    "yOffset": 0
+  },
+  "scarsMANLEG": {
+    "spritesheet": "scars",
+    "xOffset": 450,
+    "yOffset": 0
+  },
+  "scarsBRIGHTHEART": {
+    "spritesheet": "scars",
+    "xOffset": 600,
+    "yOffset": 0
+  },
+  "scarsMANTAIL": {
+    "spritesheet": "scars",
+    "xOffset": 750,
+    "yOffset": 0
+  },
+  "scarsBRIDGE": {
+    "spritesheet": "scars",
+    "xOffset": 900,
+    "yOffset": 0
+  },
+  "scarsRIGHTBLIND": {
+    "spritesheet": "scars",
+    "xOffset": 1050,
+    "yOffset": 0
+  },
+  "scarsLEFTBLIND": {
+    "spritesheet": "scars",
+    "xOffset": 1200,
+    "yOffset": 0
+  },
+  "scarsBOTHBLIND": {
+    "spritesheet": "scars",
+    "xOffset": 1350,
+    "yOffset": 0
+  },
+  "scarsBURNPAWS": {
+    "spritesheet": "scars",
+    "xOffset": 1500,
+    "yOffset": 0
+  },
+  "scarsBURNTAIL": {
+    "spritesheet": "scars",
+    "xOffset": 1650,
+    "yOffset": 0
+  },
+  "scarsBURNBELLY": {
+    "spritesheet": "scars",
+    "xOffset": 0,
+    "yOffset": 350
+  },
+  "scarsBEAKCHEEK": {
+    "spritesheet": "scars",
+    "xOffset": 150,
+    "yOffset": 350
+  },
+  "scarsBEAKLOWER": {
+    "spritesheet": "scars",
+    "xOffset": 300,
+    "yOffset": 350
+  },
+  "scarsBURNRUMP": {
+    "spritesheet": "scars",
+    "xOffset": 450,
+    "yOffset": 350
+  },
+  "scarsCATBITE": {
+    "spritesheet": "scars",
+    "xOffset": 600,
+    "yOffset": 350
+  },
+  "scarsRATBITE": {
+    "spritesheet": "scars",
+    "xOffset": 750,
+    "yOffset": 350
+  },
+  "scarsFROSTFACE": {
+    "spritesheet": "scars",
+    "xOffset": 900,
+    "yOffset": 350
+  },
+  "scarsFROSTTAIL": {
+    "spritesheet": "scars",
+    "xOffset": 1050,
+    "yOffset": 350
+  },
+  "scarsFROSTMITT": {
+    "spritesheet": "scars",
+    "xOffset": 1200,
+    "yOffset": 350
+  },
+  "scarsFROSTSOCK": {
+    "spritesheet": "scars",
+    "xOffset": 1350,
+    "yOffset": 350
+  },
+  "scarsQUILLCHUNK": {
+    "spritesheet": "scars",
+    "xOffset": 1500,
+    "yOffset": 350
+  },
+  "scarsQUILLSCRATCH": {
+    "spritesheet": "scars",
+    "xOffset": 1650,
+    "yOffset": 350
+  },
+  "scarsTAILSCAR": {
+    "spritesheet": "scars",
+    "xOffset": 0,
+    "yOffset": 700
+  },
+  "scarsSNOUT": {
+    "spritesheet": "scars",
+    "xOffset": 150,
+    "yOffset": 700
+  },
+  "scarsCHEEK": {
+    "spritesheet": "scars",
+    "xOffset": 300,
+    "yOffset": 700
+  },
+  "scarsSIDE": {
+    "spritesheet": "scars",
+    "xOffset": 450,
+    "yOffset": 700
+  },
+  "scarsTHROAT": {
+    "spritesheet": "scars",
+    "xOffset": 600,
+    "yOffset": 700
+  },
+  "scarsTAILBASE": {
+    "spritesheet": "scars",
+    "xOffset": 750,
+    "yOffset": 700
+  },
+  "scarsBELLY": {
+    "spritesheet": "scars",
+    "xOffset": 900,
+    "yOffset": 700
+  },
+  "scarsTOETRAP": {
+    "spritesheet": "scars",
+    "xOffset": 1050,
+    "yOffset": 700
+  },
+  "scarsSNAKE": {
+    "spritesheet": "scars",
+    "xOffset": 1200,
+    "yOffset": 700
+  },
+  "scarsLEGBITE": {
+    "spritesheet": "scars",
+    "xOffset": 1350,
+    "yOffset": 700
+  },
+  "scarsNECKBITE": {
+    "spritesheet": "scars",
+    "xOffset": 1500,
+    "yOffset": 700
+  },
+  "scarsFACE": {
+    "spritesheet": "scars",
+    "xOffset": 1650,
+    "yOffset": 700
+  },
+  "scarsHINDLEG": {
+    "spritesheet": "scars",
+    "xOffset": 0,
+    "yOffset": 1050
+  },
+  "scarsBACK": {
+    "spritesheet": "scars",
+    "xOffset": 150,
+    "yOffset": 1050
+  },
+  "scarsQUILLSIDE": {
+    "spritesheet": "scars",
+    "xOffset": 300,
+    "yOffset": 1050
+  },
+  "scarsSCRATCHSIDE": {
+    "spritesheet": "scars",
+    "xOffset": 450,
+    "yOffset": 1050
+  },
+  "scarsTOE": {
+    "spritesheet": "scars",
+    "xOffset": 600,
+    "yOffset": 1050
+  },
+  "scarsBEAKSIDE": {
+    "spritesheet": "scars",
+    "xOffset": 750,
+    "yOffset": 1050
+  },
+  "scarsCATBITETWO": {
+    "spritesheet": "scars",
+    "xOffset": 900,
+    "yOffset": 1050
+  },
+  "scarsSNAKETWO": {
+    "spritesheet": "scars",
+    "xOffset": 1050,
+    "yOffset": 1050
+  },
+  "scarsFOUR": {
+    "spritesheet": "scars",
+    "xOffset": 1200,
+    "yOffset": 1050
+  },
+  "scarsLEFTEAR": {
+    "spritesheet": "missingscars",
+    "xOffset": 0,
+    "yOffset": 0
+  },
+  "scarsRIGHTEAR": {
+    "spritesheet": "missingscars",
+    "xOffset": 150,
+    "yOffset": 0
+  },
+  "scarsNOTAIL": {
+    "spritesheet": "missingscars",
+    "xOffset": 300,
+    "yOffset": 0
+  },
+  "scarsNOLEFTEAR": {
+    "spritesheet": "missingscars",
+    "xOffset": 450,
+    "yOffset": 0
+  },
+  "scarsNORIGHTEAR": {
+    "spritesheet": "missingscars",
+    "xOffset": 600,
+    "yOffset": 0
+  },
+  "scarsNOEAR": {
+    "spritesheet": "missingscars",
+    "xOffset": 750,
+    "yOffset": 0
+  },
+  "scarsHALFTAIL": {
+    "spritesheet": "missingscars",
+    "xOffset": 900,
+    "yOffset": 0
+  },
+  "scarsNOPAW": {
+    "spritesheet": "missingscars",
+    "xOffset": 1050,
+    "yOffset": 0
+  },
+  "acc_herbsMAPLE LEAF": {
+    "spritesheet": "medcatherbs",
+    "xOffset": 0,
+    "yOffset": 0
+  },
+  "acc_herbsHOLLY": {
+    "spritesheet": "medcatherbs",
+    "xOffset": 150,
+    "yOffset": 0
+  },
+  "acc_herbsBLUE BERRIES": {
+    "spritesheet": "medcatherbs",
+    "xOffset": 300,
+    "yOffset": 0
+  },
+  "acc_herbsFORGET ME NOTS": {
+    "spritesheet": "medcatherbs",
+    "xOffset": 450,
+    "yOffset": 0
+  },
+  "acc_herbsRYE STALK": {
+    "spritesheet": "medcatherbs",
+    "xOffset": 600,
+    "yOffset": 0
+  },
+  "acc_herbsCATTAIL": {
+    "spritesheet": "medcatherbs",
+    "xOffset": 750,
+    "yOffset": 0
+  },
+  "acc_herbsPOPPY": {
+    "spritesheet": "medcatherbs",
+    "xOffset": 900,
+    "yOffset": 0
+  },
+  "acc_herbsORANGE POPPY": {
+    "spritesheet": "medcatherbs",
+    "xOffset": 1050,
+    "yOffset": 0
+  },
+  "acc_herbsCYAN POPPY": {
+    "spritesheet": "medcatherbs",
+    "xOffset": 1200,
+    "yOffset": 0
+  },
+  "acc_herbsWHITE POPPY": {
+    "spritesheet": "medcatherbs",
+    "xOffset": 1350,
+    "yOffset": 0
+  },
+  "acc_herbsPINK POPPY": {
+    "spritesheet": "medcatherbs",
+    "xOffset": 1500,
+    "yOffset": 0
+  },
+  "acc_herbsBLUEBELLS": {
+    "spritesheet": "medcatherbs",
+    "xOffset": 0,
+    "yOffset": 350
+  },
+  "acc_herbsLILY OF THE VALLEY": {
+    "spritesheet": "medcatherbs",
+    "xOffset": 150,
+    "yOffset": 350
+  },
+  "acc_herbsSNAPDRAGON": {
+    "spritesheet": "medcatherbs",
+    "xOffset": 300,
+    "yOffset": 350
+  },
+  "acc_herbsHERBS": {
+    "spritesheet": "medcatherbs",
+    "xOffset": 450,
+    "yOffset": 350
+  },
+  "acc_herbsPETALS": {
+    "spritesheet": "medcatherbs",
+    "xOffset": 600,
+    "yOffset": 350
+  },
+  "acc_herbsNETTLE": {
+    "spritesheet": "medcatherbs",
+    "xOffset": 750,
+    "yOffset": 350
+  },
+  "acc_herbsHEATHER": {
+    "spritesheet": "medcatherbs",
+    "xOffset": 900,
+    "yOffset": 350
+  },
+  "acc_herbsGORSE": {
+    "spritesheet": "medcatherbs",
+    "xOffset": 1050,
+    "yOffset": 350
+  },
+  "acc_herbsJUNIPER": {
+    "spritesheet": "medcatherbs",
+    "xOffset": 1200,
+    "yOffset": 350
+  },
+  "acc_herbsRASPBERRY": {
+    "spritesheet": "medcatherbs",
+    "xOffset": 1350,
+    "yOffset": 350
+  },
+  "acc_herbsLAVENDER": {
+    "spritesheet": "medcatherbs",
+    "xOffset": 1500,
+    "yOffset": 350
+  },
+  "acc_herbsOAK LEAVES": {
+    "spritesheet": "medcatherbs",
+    "xOffset": 0,
+    "yOffset": 700
+  },
+  "acc_herbsCATMINT": {
+    "spritesheet": "medcatherbs",
+    "xOffset": 150,
+    "yOffset": 700
+  },
+  "acc_herbsMAPLE SEED": {
+    "spritesheet": "medcatherbs",
+    "xOffset": 300,
+    "yOffset": 700
+  },
+  "acc_herbsLAUREL": {
+    "spritesheet": "medcatherbs",
+    "xOffset": 450,
+    "yOffset": 700
+  },
+  "acc_herbsBULB WHITE": {
+    "spritesheet": "medcatherbs",
+    "xOffset": 600,
+    "yOffset": 700
+  },
+  "acc_herbsBULB YELLOW": {
+    "spritesheet": "medcatherbs",
+    "xOffset": 750,
+    "yOffset": 700
+  },
+  "acc_herbsBULB ORANGE": {
+    "spritesheet": "medcatherbs",
+    "xOffset": 900,
+    "yOffset": 700
+  },
+  "acc_herbsBULB PINK": {
+    "spritesheet": "medcatherbs",
+    "xOffset": 1050,
+    "yOffset": 700
+  },
+  "acc_herbsBULB BLUE": {
+    "spritesheet": "medcatherbs",
+    "xOffset": 1200,
+    "yOffset": 700
+  },
+  "acc_herbsCLOVERTAIL": {
+    "spritesheet": "medcatherbs",
+    "xOffset": 1350,
+    "yOffset": 700
+  },
+  "acc_herbsDAISYTAIL": {
+    "spritesheet": "medcatherbs",
+    "xOffset": 1500,
+    "yOffset": 700
+  },
+  "acc_herbsWISTERIA2": {
+    "spritesheet": "medcatherbs",
+    "xOffset": 0,
+    "yOffset": 1050
+  },
+  "acc_herbsROSE MALLOW": {
+    "spritesheet": "medcatherbs",
+    "xOffset": 150,
+    "yOffset": 1050
+  },
+  "acc_herbsPICKLEWEED": {
+    "spritesheet": "medcatherbs",
+    "xOffset": 300,
+    "yOffset": 1050
+  },
+  "acc_herbsGOLDEN CREEPING JENNY": {
+    "spritesheet": "medcatherbs",
+    "xOffset": 450,
+    "yOffset": 1050
+  },
+  "acc_herbsDRY HERBS": {
+    "spritesheet": "medcatherbs",
+    "xOffset": 0,
+    "yOffset": 1400
+  },
+  "acc_herbsDRY CATMINT": {
+    "spritesheet": "medcatherbs",
+    "xOffset": 150,
+    "yOffset": 1400
+  },
+  "acc_herbsDRY NETTLES": {
+    "spritesheet": "medcatherbs",
+    "xOffset": 300,
+    "yOffset": 1400
+  },
+  "acc_herbsDRY LAURELS": {
+    "spritesheet": "medcatherbs",
+    "xOffset": 450,
+    "yOffset": 1400
+  },
+  "acc_wildRED FEATHERS": {
+    "spritesheet": "wild",
+    "xOffset": 0,
+    "yOffset": 0
+  },
+  "acc_wildBLUE FEATHERS": {
+    "spritesheet": "wild",
+    "xOffset": 150,
+    "yOffset": 0
+  },
+  "acc_wildJAY FEATHERS": {
+    "spritesheet": "wild",
+    "xOffset": 300,
+    "yOffset": 0
+  },
+  "acc_wildGULL FEATHERS": {
+    "spritesheet": "wild",
+    "xOffset": 450,
+    "yOffset": 0
+  },
+  "acc_wildSPARROW FEATHERS": {
+    "spritesheet": "wild",
+    "xOffset": 600,
+    "yOffset": 0
+  },
+  "acc_wildMOTH WINGS": {
+    "spritesheet": "wild",
+    "xOffset": 750,
+    "yOffset": 0
+  },
+  "acc_wildROSY MOTH WINGS": {
+    "spritesheet": "wild",
+    "xOffset": 900,
+    "yOffset": 0
+  },
+  "acc_wildMORPHO BUTTERFLY": {
+    "spritesheet": "wild",
+    "xOffset": 1050,
+    "yOffset": 0
+  },
+  "acc_wildMONARCH BUTTERFLY1": {
+    "spritesheet": "wild",
+    "xOffset": 1200,
+    "yOffset": 0
+  },
+  "acc_wildCICADA WINGS": {
+    "spritesheet": "wild",
+    "xOffset": 1350,
+    "yOffset": 0
+  },
+  "acc_wildBLACK CICADA": {
+    "spritesheet": "wild",
+    "xOffset": 1500,
+    "yOffset": 0
+  },
+  "collarsCRIMSON": {
+    "spritesheet": "collars",
+    "xOffset": 0,
+    "yOffset": 0
+  },
+  "collarsBLUE": {
+    "spritesheet": "collars",
+    "xOffset": 150,
+    "yOffset": 0
+  },
+  "collarsYELLOW": {
+    "spritesheet": "collars",
+    "xOffset": 300,
+    "yOffset": 0
+  },
+  "collarsCYAN": {
+    "spritesheet": "collars",
+    "xOffset": 450,
+    "yOffset": 0
+  },
+  "collarsRED": {
+    "spritesheet": "collars",
+    "xOffset": 600,
+    "yOffset": 0
+  },
+  "collarsLIME": {
+    "spritesheet": "collars",
+    "xOffset": 750,
+    "yOffset": 0
+  },
+  "collarsGREEN": {
+    "spritesheet": "collars",
+    "xOffset": 0,
+    "yOffset": 350
+  },
+  "collarsRAINBOW": {
+    "spritesheet": "collars",
+    "xOffset": 150,
+    "yOffset": 350
+  },
+  "collarsBLACK": {
+    "spritesheet": "collars",
+    "xOffset": 300,
+    "yOffset": 350
+  },
+  "collarsSPIKES": {
+    "spritesheet": "collars",
+    "xOffset": 450,
+    "yOffset": 350
+  },
+  "collarsWHITE": {
+    "spritesheet": "collars",
+    "xOffset": 600,
+    "yOffset": 350
+  },
+  "collarsPINK": {
+    "spritesheet": "collars",
+    "xOffset": 0,
+    "yOffset": 700
+  },
+  "collarsPURPLE": {
+    "spritesheet": "collars",
+    "xOffset": 150,
+    "yOffset": 700
+  },
+  "collarsMULTI": {
+    "spritesheet": "collars",
+    "xOffset": 300,
+    "yOffset": 700
+  },
+  "collarsINDIGO": {
+    "spritesheet": "collars",
+    "xOffset": 450,
+    "yOffset": 700
+  },
+  "collarsCRIMSONBELL": {
+    "spritesheet": "bellcollars",
+    "xOffset": 0,
+    "yOffset": 0
+  },
+  "collarsBLUEBELL": {
+    "spritesheet": "bellcollars",
+    "xOffset": 150,
+    "yOffset": 0
+  },
+  "collarsYELLOWBELL": {
+    "spritesheet": "bellcollars",
+    "xOffset": 300,
+    "yOffset": 0
+  },
+  "collarsCYANBELL": {
+    "spritesheet": "bellcollars",
+    "xOffset": 450,
+    "yOffset": 0
+  },
+  "collarsREDBELL": {
+    "spritesheet": "bellcollars",
+    "xOffset": 600,
+    "yOffset": 0
+  },
+  "collarsLIMEBELL": {
+    "spritesheet": "bellcollars",
+    "xOffset": 750,
+    "yOffset": 0
+  },
+  "collarsGREENBELL": {
+    "spritesheet": "bellcollars",
+    "xOffset": 0,
+    "yOffset": 350
+  },
+  "collarsRAINBOWBELL": {
+    "spritesheet": "bellcollars",
+    "xOffset": 150,
+    "yOffset": 350
+  },
+  "collarsBLACKBELL": {
+    "spritesheet": "bellcollars",
+    "xOffset": 300,
+    "yOffset": 350
+  },
+  "collarsSPIKESBELL": {
+    "spritesheet": "bellcollars",
+    "xOffset": 450,
+    "yOffset": 350
+  },
+  "collarsWHITEBELL": {
+    "spritesheet": "bellcollars",
+    "xOffset": 600,
+    "yOffset": 350
+  },
+  "collarsPINKBELL": {
+    "spritesheet": "bellcollars",
+    "xOffset": 0,
+    "yOffset": 700
+  },
+  "collarsPURPLEBELL": {
+    "spritesheet": "bellcollars",
+    "xOffset": 150,
+    "yOffset": 700
+  },
+  "collarsMULTIBELL": {
+    "spritesheet": "bellcollars",
+    "xOffset": 300,
+    "yOffset": 700
+  },
+  "collarsINDIGOBELL": {
+    "spritesheet": "bellcollars",
+    "xOffset": 450,
+    "yOffset": 700
+  },
+  "collarsCRIMSONBOW": {
+    "spritesheet": "bowcollars",
+    "xOffset": 0,
+    "yOffset": 0
+  },
+  "collarsBLUEBOW": {
+    "spritesheet": "bowcollars",
+    "xOffset": 150,
+    "yOffset": 0
+  },
+  "collarsYELLOWBOW": {
+    "spritesheet": "bowcollars",
+    "xOffset": 300,
+    "yOffset": 0
+  },
+  "collarsCYANBOW": {
+    "spritesheet": "bowcollars",
+    "xOffset": 450,
+    "yOffset": 0
+  },
+  "collarsREDBOW": {
+    "spritesheet": "bowcollars",
+    "xOffset": 600,
+    "yOffset": 0
+  },
+  "collarsLIMEBOW": {
+    "spritesheet": "bowcollars",
+    "xOffset": 750,
+    "yOffset": 0
+  },
+  "collarsGREENBOW": {
+    "spritesheet": "bowcollars",
+    "xOffset": 0,
+    "yOffset": 350
+  },
+  "collarsRAINBOWBOW": {
+    "spritesheet": "bowcollars",
+    "xOffset": 150,
+    "yOffset": 350
+  },
+  "collarsBLACKBOW": {
+    "spritesheet": "bowcollars",
+    "xOffset": 300,
+    "yOffset": 350
+  },
+  "collarsSPIKESBOW": {
+    "spritesheet": "bowcollars",
+    "xOffset": 450,
+    "yOffset": 350
+  },
+  "collarsWHITEBOW": {
+    "spritesheet": "bowcollars",
+    "xOffset": 600,
+    "yOffset": 350
+  },
+  "collarsPINKBOW": {
+    "spritesheet": "bowcollars",
+    "xOffset": 0,
+    "yOffset": 700
+  },
+  "collarsPURPLEBOW": {
+    "spritesheet": "bowcollars",
+    "xOffset": 150,
+    "yOffset": 700
+  },
+  "collarsMULTIBOW": {
+    "spritesheet": "bowcollars",
+    "xOffset": 300,
+    "yOffset": 700
+  },
+  "collarsINDIGOBOW": {
+    "spritesheet": "bowcollars",
+    "xOffset": 450,
+    "yOffset": 700
+  },
+  "collarsCRIMSONNYLON": {
+    "spritesheet": "nyloncollars",
+    "xOffset": 0,
+    "yOffset": 0
+  },
+  "collarsBLUENYLON": {
+    "spritesheet": "nyloncollars",
+    "xOffset": 150,
+    "yOffset": 0
+  },
+  "collarsYELLOWNYLON": {
+    "spritesheet": "nyloncollars",
+    "xOffset": 300,
+    "yOffset": 0
+  },
+  "collarsCYANNYLON": {
+    "spritesheet": "nyloncollars",
+    "xOffset": 450,
+    "yOffset": 0
+  },
+  "collarsREDNYLON": {
+    "spritesheet": "nyloncollars",
+    "xOffset": 600,
+    "yOffset": 0
+  },
+  "collarsLIMENYLON": {
+    "spritesheet": "nyloncollars",
+    "xOffset": 750,
+    "yOffset": 0
+  },
+  "collarsGREENNYLON": {
+    "spritesheet": "nyloncollars",
+    "xOffset": 0,
+    "yOffset": 350
+  },
+  "collarsRAINBOWNYLON": {
+    "spritesheet": "nyloncollars",
+    "xOffset": 150,
+    "yOffset": 350
+  },
+  "collarsBLACKNYLON": {
+    "spritesheet": "nyloncollars",
+    "xOffset": 300,
+    "yOffset": 350
+  },
+  "collarsSPIKESNYLON": {
+    "spritesheet": "nyloncollars",
+    "xOffset": 450,
+    "yOffset": 350
+  },
+  "collarsWHITENYLON": {
+    "spritesheet": "nyloncollars",
+    "xOffset": 600,
+    "yOffset": 350
+  },
+  "collarsPINKNYLON": {
+    "spritesheet": "nyloncollars",
+    "xOffset": 0,
+    "yOffset": 700
+  },
+  "collarsPURPLENYLON": {
+    "spritesheet": "nyloncollars",
+    "xOffset": 150,
+    "yOffset": 700
+  },
+  "collarsMULTINYLON": {
+    "spritesheet": "nyloncollars",
+    "xOffset": 300,
+    "yOffset": 700
+  },
+  "collarsINDIGONYLON": {
+    "spritesheet": "nyloncollars",
+    "xOffset": 450,
+    "yOffset": 700
+  },
+  "acc_plant2CLOVER": {
+    "spritesheet": "plant2_accessories",
+    "xOffset": 0,
+    "yOffset": 0
+  },
+  "acc_plant2STICK": {
+    "spritesheet": "plant2_accessories",
+    "xOffset": 150,
+    "yOffset": 0
+  },
+  "acc_plant2PUMPKIN": {
+    "spritesheet": "plant2_accessories",
+    "xOffset": 300,
+    "yOffset": 0
+  },
+  "acc_plant2MOSS": {
+    "spritesheet": "plant2_accessories",
+    "xOffset": 450,
+    "yOffset": 0
+  },
+  "acc_plant2IVY": {
+    "spritesheet": "plant2_accessories",
+    "xOffset": 600,
+    "yOffset": 0
+  },
+  "acc_plant2ACORN": {
+    "spritesheet": "plant2_accessories",
+    "xOffset": 750,
+    "yOffset": 0
+  },
+  "acc_plant2MOSS PELT": {
+    "spritesheet": "plant2_accessories",
+    "xOffset": 900,
+    "yOffset": 0
+  },
+  "acc_plant2REEDS": {
+    "spritesheet": "plant2_accessories",
+    "xOffset": 1050,
+    "yOffset": 0
+  },
+  "acc_plant2BAMBOO": {
+    "spritesheet": "plant2_accessories",
+    "xOffset": 1200,
+    "yOffset": 0
+  },
+  "acc_craftedWILLOWBARK BAG": {
+    "spritesheet": "crafted_accessories",
+    "xOffset": 0,
+    "yOffset": 0
+  },
+  "acc_craftedCLAY DAISY POT": {
+    "spritesheet": "crafted_accessories",
+    "xOffset": 150,
+    "yOffset": 0
+  },
+  "acc_craftedCLAY AMANITA POT": {
+    "spritesheet": "crafted_accessories",
+    "xOffset": 300,
+    "yOffset": 0
+  },
+  "acc_craftedCLAY BROWNCAP POT": {
+    "spritesheet": "crafted_accessories",
+    "xOffset": 450,
+    "yOffset": 0
+  },
+  "acc_craftedBIRD SKULL": {
+    "spritesheet": "crafted_accessories",
+    "xOffset": 600,
+    "yOffset": 0
+  },
+  "acc_craftedLEAF BOW": {
+    "spritesheet": "crafted_accessories",
+    "xOffset": 750,
+    "yOffset": 0
+  },
+  "acc_flowerDAISY": {
+    "spritesheet": "flower_accessories",
+    "xOffset": 0,
+    "yOffset": 0
+  },
+  "acc_flowerDIANTHUS": {
+    "spritesheet": "flower_accessories",
+    "xOffset": 150,
+    "yOffset": 0
+  },
+  "acc_flowerBLEEDING HEARTS": {
+    "spritesheet": "flower_accessories",
+    "xOffset": 300,
+    "yOffset": 0
+  },
+  "acc_flowerFRANGIPANI": {
+    "spritesheet": "flower_accessories",
+    "xOffset": 450,
+    "yOffset": 0
+  },
+  "acc_flowerBLUE GLORY": {
+    "spritesheet": "flower_accessories",
+    "xOffset": 600,
+    "yOffset": 0
+  },
+  "acc_flowerCATNIP FLOWER": {
+    "spritesheet": "flower_accessories",
+    "xOffset": 750,
+    "yOffset": 0
+  },
+  "acc_flowerBLANKET FLOWER": {
+    "spritesheet": "flower_accessories",
+    "xOffset": 900,
+    "yOffset": 0
+  },
+  "acc_flowerALLIUM": {
+    "spritesheet": "flower_accessories",
+    "xOffset": 1050,
+    "yOffset": 0
+  },
+  "acc_flowerLACELEAF": {
+    "spritesheet": "flower_accessories",
+    "xOffset": 1200,
+    "yOffset": 0
+  },
+  "acc_flowerPURPLE GLORY": {
+    "spritesheet": "flower_accessories",
+    "xOffset": 1350,
+    "yOffset": 0
+  },
+  "acc_flowerYELLOW PRIMROSE": {
+    "spritesheet": "flower_accessories",
+    "xOffset": 0,
+    "yOffset": 350
+  },
+  "acc_flowerHESPERIS": {
+    "spritesheet": "flower_accessories",
+    "xOffset": 150,
+    "yOffset": 350
+  },
+  "acc_flowerMARIGOLD": {
+    "spritesheet": "flower_accessories",
+    "xOffset": 300,
+    "yOffset": 350
+  },
+  "acc_flowerWISTERIA": {
+    "spritesheet": "flower_accessories",
+    "xOffset": 450,
+    "yOffset": 350
+  },
+  "acc_snakeGRASS SNAKE": {
+    "spritesheet": "snake_accessories",
+    "xOffset": 0,
+    "yOffset": 0
+  },
+  "acc_snakeBLUE RACER": {
+    "spritesheet": "snake_accessories",
+    "xOffset": 150,
+    "yOffset": 0
+  },
+  "acc_snakeWESTERN COACHWHIP": {
+    "spritesheet": "snake_accessories",
+    "xOffset": 300,
+    "yOffset": 0
+  },
+  "acc_snakeKINGSNAKE": {
+    "spritesheet": "snake_accessories",
+    "xOffset": 450,
+    "yOffset": 0
+  },
+  "acc_deadInsectLUNAR MOTH": {
+    "spritesheet": "deadInsect_accessories",
+    "xOffset": 0,
+    "yOffset": 0
+  },
+  "acc_deadInsectROSY MAPLE MOTH": {
+    "spritesheet": "deadInsect_accessories",
+    "xOffset": 150,
+    "yOffset": 0
+  },
+  "acc_deadInsectMONARCH BUTTERFLY": {
+    "spritesheet": "deadInsect_accessories",
+    "xOffset": 300,
+    "yOffset": 0
+  },
+  "acc_deadInsectDAPPLED MONARCH": {
+    "spritesheet": "deadInsect_accessories",
+    "xOffset": 450,
+    "yOffset": 0
+  },
+  "acc_deadInsectPOLYPHEMUS MOTH": {
+    "spritesheet": "deadInsect_accessories",
+    "xOffset": 600,
+    "yOffset": 0
+  },
+  "acc_deadInsectMINT MOTH": {
+    "spritesheet": "deadInsect_accessories",
+    "xOffset": 750,
+    "yOffset": 0
+  },
+  "acc_aliveInsectBROWN SNAIL": {
+    "spritesheet": "aliveInsect_accessories",
+    "xOffset": 0,
+    "yOffset": 0
+  },
+  "acc_aliveInsectRED SNAIL": {
+    "spritesheet": "aliveInsect_accessories",
+    "xOffset": 150,
+    "yOffset": 0
+  },
+  "acc_aliveInsectWORM": {
+    "spritesheet": "aliveInsect_accessories",
+    "xOffset": 300,
+    "yOffset": 0
+  },
+  "acc_aliveInsectBLUE SNAIL": {
+    "spritesheet": "aliveInsect_accessories",
+    "xOffset": 450,
+    "yOffset": 0
+  },
+  "acc_aliveInsectZEBRA ISOPOD": {
+    "spritesheet": "aliveInsect_accessories",
+    "xOffset": 600,
+    "yOffset": 0
+  },
+  "acc_aliveInsectDUCKY ISOPOD": {
+    "spritesheet": "aliveInsect_accessories",
+    "xOffset": 750,
+    "yOffset": 0
+  },
+  "acc_aliveInsectDAIRY COW ISOPOD": {
+    "spritesheet": "aliveInsect_accessories",
+    "xOffset": 900,
+    "yOffset": 0
+  },
+  "acc_aliveInsectBEETLEJUICE ISOPOD": {
+    "spritesheet": "aliveInsect_accessories",
+    "xOffset": 1050,
+    "yOffset": 0
+  },
+  "acc_aliveInsectBEE": {
+    "spritesheet": "aliveInsect_accessories",
+    "xOffset": 1200,
+    "yOffset": 0
+  },
+  "acc_aliveInsectRED LADYBUG": {
+    "spritesheet": "aliveInsect_accessories",
+    "xOffset": 1350,
+    "yOffset": 0
+  },
+  "acc_aliveInsectORANGE LADYBUG": {
+    "spritesheet": "aliveInsect_accessories",
+    "xOffset": 0,
+    "yOffset": 350
+  },
+  "acc_aliveInsectYELLOW LADYBUG": {
+    "spritesheet": "aliveInsect_accessories",
+    "xOffset": 150,
+    "yOffset": 350
+  },
+  "acc_fruitOGRASPBERRY": {
+    "spritesheet": "fruit_accessories",
+    "xOffset": 0,
+    "yOffset": 0
+  },
+  "acc_fruitBLACKBERRY": {
+    "spritesheet": "fruit_accessories",
+    "xOffset": 150,
+    "yOffset": 0
+  },
+  "acc_fruitGOLDEN RASPBERRY": {
+    "spritesheet": "fruit_accessories",
+    "xOffset": 300,
+    "yOffset": 0
+  },
+  "acc_fruitCHERRY": {
+    "spritesheet": "fruit_accessories",
+    "xOffset": 450,
+    "yOffset": 0
+  },
+  "acc_fruitYEW": {
+    "spritesheet": "fruit_accessories",
+    "xOffset": 600,
+    "yOffset": 0
+  },
+  "acc_smallAnimalGRAY SQUIRREL": {
+    "spritesheet": "smallAnimal_accessories",
+    "xOffset": 0,
+    "yOffset": 0
+  },
+  "acc_smallAnimalRED SQUIRREL": {
+    "spritesheet": "smallAnimal_accessories",
+    "xOffset": 150,
+    "yOffset": 0
+  },
+  "acc_smallAnimalCRAB": {
+    "spritesheet": "smallAnimal_accessories",
+    "xOffset": 300,
+    "yOffset": 0
+  },
+  "acc_smallAnimalWHITE RABBIT": {
+    "spritesheet": "smallAnimal_accessories",
+    "xOffset": 450,
+    "yOffset": 0
+  },
+  "acc_smallAnimalBLACK RABBIT": {
+    "spritesheet": "smallAnimal_accessories",
+    "xOffset": 600,
+    "yOffset": 0
+  },
+  "acc_smallAnimalBROWN RABBIT": {
+    "spritesheet": "smallAnimal_accessories",
+    "xOffset": 750,
+    "yOffset": 0
+  },
+  "acc_smallAnimalINDIAN GIANT SQUIRREL": {
+    "spritesheet": "smallAnimal_accessories",
+    "xOffset": 900,
+    "yOffset": 0
+  },
+  "acc_smallAnimalFAWN RABBIT": {
+    "spritesheet": "smallAnimal_accessories",
+    "xOffset": 1050,
+    "yOffset": 0
+  },
+  "acc_smallAnimalBROWN AND WHITE RABBIT": {
+    "spritesheet": "smallAnimal_accessories",
+    "xOffset": 1200,
+    "yOffset": 0
+  },
+  "acc_smallAnimalBLACK AND WHITE RABBIT": {
+    "spritesheet": "smallAnimal_accessories",
+    "xOffset": 1350,
+    "yOffset": 0
+  },
+  "acc_smallAnimalWHITE AND FAWN RABBIT": {
+    "spritesheet": "smallAnimal_accessories",
+    "xOffset": 0,
+    "yOffset": 350
+  },
+  "acc_smallAnimalBLACK VITILIGO RABBIT": {
+    "spritesheet": "smallAnimal_accessories",
+    "xOffset": 150,
+    "yOffset": 350
+  },
+  "acc_smallAnimalBROWN VITILIGO RABBIT": {
+    "spritesheet": "smallAnimal_accessories",
+    "xOffset": 300,
+    "yOffset": 350
+  },
+  "acc_smallAnimalFAWN VITILIGO RABBIT": {
+    "spritesheet": "smallAnimal_accessories",
+    "xOffset": 450,
+    "yOffset": 350
+  },
+  "acc_smallAnimalBLACKBIRD": {
+    "spritesheet": "smallAnimal_accessories",
+    "xOffset": 600,
+    "yOffset": 350
+  },
+  "acc_smallAnimalROBIN": {
+    "spritesheet": "smallAnimal_accessories",
+    "xOffset": 750,
+    "yOffset": 350
+  },
+  "acc_smallAnimalJAY": {
+    "spritesheet": "smallAnimal_accessories",
+    "xOffset": 900,
+    "yOffset": 350
+  },
+  "acc_smallAnimalTHRUSH": {
+    "spritesheet": "smallAnimal_accessories",
+    "xOffset": 1050,
+    "yOffset": 350
+  },
+  "acc_smallAnimalCARDINAL": {
+    "spritesheet": "smallAnimal_accessories",
+    "xOffset": 1200,
+    "yOffset": 350
+  },
+  "acc_smallAnimalMAGPIE": {
+    "spritesheet": "smallAnimal_accessories",
+    "xOffset": 1350,
+    "yOffset": 350
+  },
+  "acc_smallAnimalCUBAN TROGON": {
+    "spritesheet": "smallAnimal_accessories",
+    "xOffset": 0,
+    "yOffset": 700
+  },
+  "acc_smallAnimalTAN RABBIT": {
+    "spritesheet": "smallAnimal_accessories",
+    "xOffset": 150,
+    "yOffset": 700
+  },
+  "acc_smallAnimalTAN AND WHITE RABBIT": {
+    "spritesheet": "smallAnimal_accessories",
+    "xOffset": 300,
+    "yOffset": 700
+  },
+  "acc_smallAnimalTAN VITILIGO RABBIT": {
+    "spritesheet": "smallAnimal_accessories",
+    "xOffset": 450,
+    "yOffset": 700
+  },
+  "acc_smallAnimalRAT": {
+    "spritesheet": "smallAnimal_accessories",
+    "xOffset": 600,
+    "yOffset": 700
+  },
+  "acc_smallAnimalWHITE MOUSE": {
+    "spritesheet": "smallAnimal_accessories",
+    "xOffset": 750,
+    "yOffset": 700
+  },
+  "acc_smallAnimalBLACK MOUSE": {
+    "spritesheet": "smallAnimal_accessories",
+    "xOffset": 900,
+    "yOffset": 700
+  },
+  "acc_smallAnimalGRAY MOUSE": {
+    "spritesheet": "smallAnimal_accessories",
+    "xOffset": 1050,
+    "yOffset": 700
+  },
+  "acc_smallAnimalBROWN MOUSE": {
+    "spritesheet": "smallAnimal_accessories",
+    "xOffset": 1200,
+    "yOffset": 700
+  },
+  "acc_smallAnimalGRAY RABBIT": {
+    "spritesheet": "smallAnimal_accessories",
+    "xOffset": 1350,
+    "yOffset": 700
+  },
+  "acc_smallAnimalGRAY AND WHITE RABBIT": {
+    "spritesheet": "smallAnimal_accessories",
+    "xOffset": 0,
+    "yOffset": 1050
+  },
+  "acc_smallAnimalGRAY VITILIGO RABBIT": {
+    "spritesheet": "smallAnimal_accessories",
+    "xOffset": 150,
+    "yOffset": 1050
+  },
+  "acc_tail2SEAWEED": {
+    "spritesheet": "tail2_accessories",
+    "xOffset": 0,
+    "yOffset": 0
+  },
+  "acc_tail2DAISY CORSAGE": {
+    "spritesheet": "tail2_accessories",
+    "xOffset": 150,
+    "yOffset": 0
+  },
+  "acc_bonesSNAKE": {
+    "spritesheet": "bonesacc",
+    "xOffset": 0,
+    "yOffset": 0
+  },
+  "acc_bonesBAT WINGS": {
+    "spritesheet": "bonesacc",
+    "xOffset": 150,
+    "yOffset": 0
+  },
+  "acc_bonesCANIDAE SKULL": {
+    "spritesheet": "bonesacc",
+    "xOffset": 300,
+    "yOffset": 0
+  },
+  "acc_bonesDEER ANTLERS": {
+    "spritesheet": "bonesacc",
+    "xOffset": 450,
+    "yOffset": 0
+  },
+  "acc_bonesRAM HORN": {
+    "spritesheet": "bonesacc",
+    "xOffset": 600,
+    "yOffset": 0
+  },
+  "acc_bonesGOAT HORN": {
+    "spritesheet": "bonesacc",
+    "xOffset": 750,
+    "yOffset": 0
+  },
+  "acc_bonesOX SKULL": {
+    "spritesheet": "bonesacc",
+    "xOffset": 900,
+    "yOffset": 0
+  },
+  "acc_bonesRAT SKULL": {
+    "spritesheet": "bonesacc",
+    "xOffset": 1050,
+    "yOffset": 0
+  },
+  "acc_bonesTEETH COLLAR": {
+    "spritesheet": "bonesacc",
+    "xOffset": 1200,
+    "yOffset": 0
+  },
+  "acc_bonesROE SKULL": {
+    "spritesheet": "bonesacc",
+    "xOffset": 1350,
+    "yOffset": 0
+  },
+  "acc_bonesBIRD SKULL1": {
+    "spritesheet": "bonesacc",
+    "xOffset": 0,
+    "yOffset": 350
+  },
+  "acc_bonesRIBS": {
+    "spritesheet": "bonesacc",
+    "xOffset": 150,
+    "yOffset": 350
+  },
+  "acc_bonesFISH BONES": {
+    "spritesheet": "bonesacc",
+    "xOffset": 300,
+    "yOffset": 350
+  },
+  "acc_butterflymothPEACOCK BUTTERFLY": {
+    "spritesheet": "butterflymothacc",
+    "xOffset": 0,
+    "yOffset": 0
+  },
+  "acc_butterflymothDEATH HEAD HAWKMOTH": {
+    "spritesheet": "butterflymothacc",
+    "xOffset": 150,
+    "yOffset": 0
+  },
+  "acc_butterflymothGARDEN TIGER MOTH": {
+    "spritesheet": "butterflymothacc",
+    "xOffset": 300,
+    "yOffset": 0
+  },
+  "acc_butterflymothATLAS MOTH": {
+    "spritesheet": "butterflymothacc",
+    "xOffset": 450,
+    "yOffset": 0
+  },
+  "acc_butterflymothCECOROPIA MOTH": {
+    "spritesheet": "butterflymothacc",
+    "xOffset": 600,
+    "yOffset": 0
+  },
+  "acc_butterflymothWHITE ERMINE MOTH": {
+    "spritesheet": "butterflymothacc",
+    "xOffset": 750,
+    "yOffset": 0
+  },
+  "acc_butterflymothIO MOTH": {
+    "spritesheet": "butterflymothacc",
+    "xOffset": 900,
+    "yOffset": 0
+  },
+  "acc_butterflymothCOMET MOTH": {
+    "spritesheet": "butterflymothacc",
+    "xOffset": 1050,
+    "yOffset": 0
+  },
+  "acc_butterflymothJADE HAWKMOTH": {
+    "spritesheet": "butterflymothacc",
+    "xOffset": 1200,
+    "yOffset": 0
+  },
+  "acc_butterflymothHUMMINGBIRD HAWKMOTH": {
+    "spritesheet": "butterflymothacc",
+    "xOffset": 1350,
+    "yOffset": 0
+  },
+  "acc_butterflymothOWL BUTTERFLY": {
+    "spritesheet": "butterflymothacc",
+    "xOffset": 0,
+    "yOffset": 350
+  },
+  "acc_butterflymothGLASSWING BUTTERFLY": {
+    "spritesheet": "butterflymothacc",
+    "xOffset": 150,
+    "yOffset": 350
+  },
+  "acc_butterflymothQUEEN ALEXANDRA BIRDWING BUTTERFLY": {
+    "spritesheet": "butterflymothacc",
+    "xOffset": 300,
+    "yOffset": 350
+  },
+  "acc_butterflymothGREEN DRAGONTAIL BUTTERFLY": {
+    "spritesheet": "butterflymothacc",
+    "xOffset": 450,
+    "yOffset": 350
+  },
+  "acc_butterflymothMENELAUS BLUE MORPHO BUTTERFLY": {
+    "spritesheet": "butterflymothacc",
+    "xOffset": 600,
+    "yOffset": 350
+  },
+  "acc_butterflymothDEAD LEAF BUTTERFLY": {
+    "spritesheet": "butterflymothacc",
+    "xOffset": 750,
+    "yOffset": 350
+  },
+  "acc_twolegstuffOLD GOLD WATCH": {
+    "spritesheet": "twolegstuff",
+    "xOffset": 0,
+    "yOffset": 0
+  },
+  "acc_twolegstuffOLD SILVER WATCH": {
+    "spritesheet": "twolegstuff",
+    "xOffset": 150,
+    "yOffset": 0
+  },
+  "acc_twolegstuffGOLDEN KEY": {
+    "spritesheet": "twolegstuff",
+    "xOffset": 300,
+    "yOffset": 0
+  },
+  "acc_twolegstuffSILVER KEY": {
+    "spritesheet": "twolegstuff",
+    "xOffset": 450,
+    "yOffset": 0
+  },
+  "acc_twolegstuffDVD": {
+    "spritesheet": "twolegstuff",
+    "xOffset": 600,
+    "yOffset": 0
+  },
+  "acc_twolegstuffOLD PENCIL": {
+    "spritesheet": "twolegstuff",
+    "xOffset": 750,
+    "yOffset": 0
+  },
+  "acc_twolegstuffOLD BRUSH": {
+    "spritesheet": "twolegstuff",
+    "xOffset": 900,
+    "yOffset": 0
+  },
+  "acc_twolegstuffBANANA PEEL": {
+    "spritesheet": "twolegstuff",
+    "xOffset": 1050,
+    "yOffset": 0
+  },
+  "acc_twolegstuffBROKEN VHS TAPE": {
+    "spritesheet": "twolegstuff",
+    "xOffset": 1200,
+    "yOffset": 0
+  },
+  "acc_twolegstuffOLD NEWSPAPER": {
+    "spritesheet": "twolegstuff",
+    "xOffset": 1350,
+    "yOffset": 0
+  },
+  "acc_twolegstuffSEA GLASS": {
+    "spritesheet": "twolegstuff",
+    "xOffset": 0,
+    "yOffset": 350
+  },
+  "acc_twolegstuffBAUBLES": {
+    "spritesheet": "twolegstuff",
+    "xOffset": 150,
+    "yOffset": 350
+  },
+  "acc_twolegstuffMUD AND DIRT": {
+    "spritesheet": "twolegstuff",
+    "xOffset": 300,
+    "yOffset": 350
+  },
+  "collarsCRIMSONBANDANA": {
+    "spritesheet": "bandanas",
+    "xOffset": 0,
+    "yOffset": 0
+  },
+  "collarsBLUEBANDANA": {
+    "spritesheet": "bandanas",
+    "xOffset": 150,
+    "yOffset": 0
+  },
+  "collarsYELLOWBANDANA": {
+    "spritesheet": "bandanas",
+    "xOffset": 300,
+    "yOffset": 0
+  },
+  "collarsCYANBANDANA": {
+    "spritesheet": "bandanas",
+    "xOffset": 450,
+    "yOffset": 0
+  },
+  "collarsREDBANDANA": {
+    "spritesheet": "bandanas",
+    "xOffset": 600,
+    "yOffset": 0
+  },
+  "collarsLIMEBANDANA": {
+    "spritesheet": "bandanas",
+    "xOffset": 750,
+    "yOffset": 0
+  },
+  "collarsGREENBANDANA": {
+    "spritesheet": "bandanas",
+    "xOffset": 0,
+    "yOffset": 350
+  },
+  "collarsRAINBOWBANDANA": {
+    "spritesheet": "bandanas",
+    "xOffset": 150,
+    "yOffset": 350
+  },
+  "collarsBLACKBANDANA": {
+    "spritesheet": "bandanas",
+    "xOffset": 300,
+    "yOffset": 350
+  },
+  "collarsSPIKESBANDANA": {
+    "spritesheet": "bandanas",
+    "xOffset": 450,
+    "yOffset": 350
+  },
+  "collarsWHITEBANDANA": {
+    "spritesheet": "bandanas",
+    "xOffset": 600,
+    "yOffset": 350
+  },
+  "collarsPINKBANDANA": {
+    "spritesheet": "bandanas",
+    "xOffset": 0,
+    "yOffset": 700
+  },
+  "collarsPURPLEBANDANA": {
+    "spritesheet": "bandanas",
+    "xOffset": 150,
+    "yOffset": 700
+  },
+  "collarsMULTIBANDANA": {
+    "spritesheet": "bandanas",
+    "xOffset": 300,
+    "yOffset": 700
+  },
+  "collarsINDIGOBANDANA": {
+    "spritesheet": "bandanas",
+    "xOffset": 450,
+    "yOffset": 700
+  },
+  "collarsCRIMSONH": {
+    "spritesheet": "harnesses",
+    "xOffset": 0,
+    "yOffset": 0
+  },
+  "collarsBLUEH": {
+    "spritesheet": "harnesses",
+    "xOffset": 150,
+    "yOffset": 0
+  },
+  "collarsYELLOWH": {
+    "spritesheet": "harnesses",
+    "xOffset": 300,
+    "yOffset": 0
+  },
+  "collarsCYANH": {
+    "spritesheet": "harnesses",
+    "xOffset": 450,
+    "yOffset": 0
+  },
+  "collarsREDH": {
+    "spritesheet": "harnesses",
+    "xOffset": 600,
+    "yOffset": 0
+  },
+  "collarsLIMEH": {
+    "spritesheet": "harnesses",
+    "xOffset": 750,
+    "yOffset": 0
+  },
+  "collarsGREENH": {
+    "spritesheet": "harnesses",
+    "xOffset": 0,
+    "yOffset": 350
+  },
+  "collarsRAINBOWH": {
+    "spritesheet": "harnesses",
+    "xOffset": 150,
+    "yOffset": 350
+  },
+  "collarsBLACKH": {
+    "spritesheet": "harnesses",
+    "xOffset": 300,
+    "yOffset": 350
+  },
+  "collarsSPIKESH": {
+    "spritesheet": "harnesses",
+    "xOffset": 450,
+    "yOffset": 350
+  },
+  "collarsWHITEH": {
+    "spritesheet": "harnesses",
+    "xOffset": 600,
+    "yOffset": 350
+  },
+  "collarsPINKH": {
+    "spritesheet": "harnesses",
+    "xOffset": 0,
+    "yOffset": 700
+  },
+  "collarsPURPLEH": {
+    "spritesheet": "harnesses",
+    "xOffset": 150,
+    "yOffset": 700
+  },
+  "collarsMULTIH": {
+    "spritesheet": "harnesses",
+    "xOffset": 300,
+    "yOffset": 700
+  },
+  "collarsINDIGOH": {
+    "spritesheet": "harnesses",
+    "xOffset": 450,
+    "yOffset": 700
+  },
+  "bowsCRIMSONBOWS": {
+    "spritesheet": "bows",
+    "xOffset": 0,
+    "yOffset": 0
+  },
+  "bowsBLUEBOWS": {
+    "spritesheet": "bows",
+    "xOffset": 150,
+    "yOffset": 0
+  },
+  "bowsYELLOWBOWS": {
+    "spritesheet": "bows",
+    "xOffset": 300,
+    "yOffset": 0
+  },
+  "bowsCYANBOWS": {
+    "spritesheet": "bows",
+    "xOffset": 450,
+    "yOffset": 0
+  },
+  "bowsREDBOWS": {
+    "spritesheet": "bows",
+    "xOffset": 600,
+    "yOffset": 0
+  },
+  "bowsLIMEBOWS": {
+    "spritesheet": "bows",
+    "xOffset": 750,
+    "yOffset": 0
+  },
+  "bowsGREENBOWS": {
+    "spritesheet": "bows",
+    "xOffset": 0,
+    "yOffset": 350
+  },
+  "bowsRAINBOWBOWS": {
+    "spritesheet": "bows",
+    "xOffset": 150,
+    "yOffset": 350
+  },
+  "bowsBLACKBOWS": {
+    "spritesheet": "bows",
+    "xOffset": 300,
+    "yOffset": 350
+  },
+  "bowsSPIKESBOWS": {
+    "spritesheet": "bows",
+    "xOffset": 450,
+    "yOffset": 350
+  },
+  "bowsWHITEBOWS": {
+    "spritesheet": "bows",
+    "xOffset": 600,
+    "yOffset": 350
+  },
+  "bowsPINKBOWS": {
+    "spritesheet": "bows",
+    "xOffset": 0,
+    "yOffset": 700
+  },
+  "bowsPURPLEBOWS": {
+    "spritesheet": "bows",
+    "xOffset": 150,
+    "yOffset": 700
+  },
+  "bowsMULTIBOWS": {
+    "spritesheet": "bows",
+    "xOffset": 300,
+    "yOffset": 700
+  },
+  "bowsINDIGOBOWS": {
+    "spritesheet": "bows",
+    "xOffset": 450,
+    "yOffset": 700
+  },
+  "collarsCRIMSONTEETHCOLLAR": {
+    "spritesheet": "teethcollars",
+    "xOffset": 0,
+    "yOffset": 0
+  },
+  "collarsBLUETEETHCOLLAR": {
+    "spritesheet": "teethcollars",
+    "xOffset": 150,
+    "yOffset": 0
+  },
+  "collarsYELLOWTEETHCOLLAR": {
+    "spritesheet": "teethcollars",
+    "xOffset": 300,
+    "yOffset": 0
+  },
+  "collarsCYANTEETHCOLLAR": {
+    "spritesheet": "teethcollars",
+    "xOffset": 450,
+    "yOffset": 0
+  },
+  "collarsREDTEETHCOLLAR": {
+    "spritesheet": "teethcollars",
+    "xOffset": 600,
+    "yOffset": 0
+  },
+  "collarsLIMETEETHCOLLAR": {
+    "spritesheet": "teethcollars",
+    "xOffset": 750,
+    "yOffset": 0
+  },
+  "collarsGREENTEETHCOLLAR": {
+    "spritesheet": "teethcollars",
+    "xOffset": 0,
+    "yOffset": 350
+  },
+  "collarsRAINBOWTEETHCOLLAR": {
+    "spritesheet": "teethcollars",
+    "xOffset": 150,
+    "yOffset": 350
+  },
+  "collarsBLACKTEETHCOLLAR": {
+    "spritesheet": "teethcollars",
+    "xOffset": 300,
+    "yOffset": 350
+  },
+  "collarsSPIKESTEETHCOLLAR": {
+    "spritesheet": "teethcollars",
+    "xOffset": 450,
+    "yOffset": 350
+  },
+  "collarsWHITETEETHCOLLAR": {
+    "spritesheet": "teethcollars",
+    "xOffset": 600,
+    "yOffset": 350
+  },
+  "collarsPINKTEETHCOLLAR": {
+    "spritesheet": "teethcollars",
+    "xOffset": 0,
+    "yOffset": 700
+  },
+  "collarsPURPLETEETHCOLLAR": {
+    "spritesheet": "teethcollars",
+    "xOffset": 150,
+    "yOffset": 700
+  },
+  "collarsMULTITEETHCOLLAR": {
+    "spritesheet": "teethcollars",
+    "xOffset": 300,
+    "yOffset": 700
+  },
+  "collarsINDIGOTEETHCOLLAR": {
+    "spritesheet": "teethcollars",
+    "xOffset": 450,
+    "yOffset": 700
+  },
+  "collarsCRIMSONTIE": {
+    "spritesheet": "ties",
+    "xOffset": 0,
+    "yOffset": 0
+  },
+  "collarsBLUETIE": {
+    "spritesheet": "ties",
+    "xOffset": 150,
+    "yOffset": 0
+  },
+  "collarsYELLOWTIE": {
+    "spritesheet": "ties",
+    "xOffset": 300,
+    "yOffset": 0
+  },
+  "collarsCYANTIE": {
+    "spritesheet": "ties",
+    "xOffset": 450,
+    "yOffset": 0
+  },
+  "collarsORANGETIE": {
+    "spritesheet": "ties",
+    "xOffset": 600,
+    "yOffset": 0
+  },
+  "collarsLIMETIE": {
+    "spritesheet": "ties",
+    "xOffset": 750,
+    "yOffset": 0
+  },
+  "collarsGREENTIE": {
+    "spritesheet": "ties",
+    "xOffset": 0,
+    "yOffset": 350
+  },
+  "collarsRAINBOWTIE": {
+    "spritesheet": "ties",
+    "xOffset": 150,
+    "yOffset": 350
+  },
+  "collarsBLACKTIE": {
+    "spritesheet": "ties",
+    "xOffset": 300,
+    "yOffset": 350
+  },
+  "collarsSPIKESTIE": {
+    "spritesheet": "ties",
+    "xOffset": 450,
+    "yOffset": 350
+  },
+  "collarsWHITETIE": {
+    "spritesheet": "ties",
+    "xOffset": 600,
+    "yOffset": 350
+  },
+  "collarsPINKTIE": {
+    "spritesheet": "ties",
+    "xOffset": 0,
+    "yOffset": 700
+  },
+  "collarsPURPLETIE": {
+    "spritesheet": "ties",
+    "xOffset": 150,
+    "yOffset": 700
+  },
+  "collarsMULTITIE": {
+    "spritesheet": "ties",
+    "xOffset": 300,
+    "yOffset": 700
+  },
+  "collarsINDIGOTIE": {
+    "spritesheet": "ties",
+    "xOffset": 450,
+    "yOffset": 700
+  },
+  "collarsCRIMSONS": {
+    "spritesheet": "french_scarves",
+    "xOffset": 0,
+    "yOffset": 0
+  },
+  "collarsBLUES": {
+    "spritesheet": "french_scarves",
+    "xOffset": 150,
+    "yOffset": 0
+  },
+  "collarsYELLOWS": {
+    "spritesheet": "french_scarves",
+    "xOffset": 300,
+    "yOffset": 0
+  },
+  "collarsCYANS": {
+    "spritesheet": "french_scarves",
+    "xOffset": 450,
+    "yOffset": 0
+  },
+  "collarsORANGES": {
+    "spritesheet": "french_scarves",
+    "xOffset": 600,
+    "yOffset": 0
+  },
+  "collarsLIMES": {
+    "spritesheet": "french_scarves",
+    "xOffset": 750,
+    "yOffset": 0
+  },
+  "collarsGREENS": {
+    "spritesheet": "french_scarves",
+    "xOffset": 0,
+    "yOffset": 350
+  },
+  "collarsRAINBOWS": {
+    "spritesheet": "french_scarves",
+    "xOffset": 150,
+    "yOffset": 350
+  },
+  "collarsBLACKS": {
+    "spritesheet": "french_scarves",
+    "xOffset": 300,
+    "yOffset": 350
+  },
+  "collarsSPIKESS": {
+    "spritesheet": "french_scarves",
+    "xOffset": 450,
+    "yOffset": 350
+  },
+  "collarsWHITES": {
+    "spritesheet": "french_scarves",
+    "xOffset": 600,
+    "yOffset": 350
+  },
+  "collarsPINKS": {
+    "spritesheet": "french_scarves",
+    "xOffset": 0,
+    "yOffset": 700
+  },
+  "collarsPURPLES": {
+    "spritesheet": "french_scarves",
+    "xOffset": 150,
+    "yOffset": 700
+  },
+  "collarsMULTIS": {
+    "spritesheet": "french_scarves",
+    "xOffset": 300,
+    "yOffset": 700
+  },
+  "collarsINDIGOS": {
+    "spritesheet": "french_scarves",
+    "xOffset": 450,
+    "yOffset": 700
+  },
+  "acc_sterPOPPYFLOWER": {
+    "spritesheet": "sterflowers",
+    "xOffset": 0,
+    "yOffset": 0
+  },
+  "acc_sterJUNIPERBERRY": {
+    "spritesheet": "sterflowers",
+    "xOffset": 150,
+    "yOffset": 0
+  },
+  "acc_sterDAISYFLOWER": {
+    "spritesheet": "sterflowers",
+    "xOffset": 300,
+    "yOffset": 0
+  },
+  "acc_sterBORAGEFLOWER": {
+    "spritesheet": "sterflowers",
+    "xOffset": 450,
+    "yOffset": 0
+  },
+  "acc_sterOAK": {
+    "spritesheet": "sterflowers",
+    "xOffset": 600,
+    "yOffset": 0
+  },
+  "acc_sterBEECH": {
+    "spritesheet": "sterflowers",
+    "xOffset": 750,
+    "yOffset": 0
+  },
+  "acc_sterLAURELLEAVES": {
+    "spritesheet": "sterflowers",
+    "xOffset": 0,
+    "yOffset": 350
+  },
+  "acc_sterCOLTSFOOT": {
+    "spritesheet": "sterflowers",
+    "xOffset": 150,
+    "yOffset": 350
+  },
+  "acc_sterBINDWEED": {
+    "spritesheet": "sterflowers",
+    "xOffset": 300,
+    "yOffset": 350
+  },
+  "acc_sterTORMENTIL": {
+    "spritesheet": "sterflowers",
+    "xOffset": 450,
+    "yOffset": 350
+  },
+  "acc_sterBRIGHTEYE": {
+    "spritesheet": "sterflowers",
+    "xOffset": 600,
+    "yOffset": 350
+  },
+  "acc_sterLAVENDERWREATH": {
+    "spritesheet": "sterflowers",
+    "xOffset": 750,
+    "yOffset": 350
+  },
+  "acc_sterYARROW": {
+    "spritesheet": "sterflowers",
+    "xOffset": 0,
+    "yOffset": 700
+  },
+  "collarsCRIMSONBOO": {
+    "spritesheet": "boosbandanas_accessories",
+    "xOffset": 0,
+    "yOffset": 0
+  },
+  "collarsMAGENTABOO": {
+    "spritesheet": "boosbandanas_accessories",
+    "xOffset": 150,
+    "yOffset": 0
+  },
+  "collarsPINKBOO": {
+    "spritesheet": "boosbandanas_accessories",
+    "xOffset": 300,
+    "yOffset": 0
+  },
+  "collarsBLOODORANGEBOO": {
+    "spritesheet": "boosbandanas_accessories",
+    "xOffset": 450,
+    "yOffset": 0
+  },
+  "collarsORANGEBOO": {
+    "spritesheet": "boosbandanas_accessories",
+    "xOffset": 600,
+    "yOffset": 0
+  },
+  "collarsYELLOWBOO": {
+    "spritesheet": "boosbandanas_accessories",
+    "xOffset": 750,
+    "yOffset": 0
+  },
+  "collarsLIMEBOO": {
+    "spritesheet": "boosbandanas_accessories",
+    "xOffset": 0,
+    "yOffset": 350
+  },
+  "collarsDARKGREENBOO": {
+    "spritesheet": "boosbandanas_accessories",
+    "xOffset": 150,
+    "yOffset": 350
+  },
+  "collarsGREENBOO": {
+    "spritesheet": "boosbandanas_accessories",
+    "xOffset": 300,
+    "yOffset": 350
+  },
+  "collarsTEALBOO": {
+    "spritesheet": "boosbandanas_accessories",
+    "xOffset": 450,
+    "yOffset": 350
+  },
+  "collarsLIGHTBLUEBOO": {
+    "spritesheet": "boosbandanas_accessories",
+    "xOffset": 600,
+    "yOffset": 350
+  },
+  "collarsBLUEBOO": {
+    "spritesheet": "boosbandanas_accessories",
+    "xOffset": 750,
+    "yOffset": 350
+  },
+  "collarsDARKBLUEBOO": {
+    "spritesheet": "boosbandanas_accessories",
+    "xOffset": 0,
+    "yOffset": 700
+  },
+  "collarsLIGHTPURPLEBOO": {
+    "spritesheet": "boosbandanas_accessories",
+    "xOffset": 150,
+    "yOffset": 700
+  },
+  "collarsDARKPURPLEBOO": {
+    "spritesheet": "boosbandanas_accessories",
+    "xOffset": 300,
+    "yOffset": 700
+  },
+  "collarsVIBRANTPURPLEBOO": {
+    "spritesheet": "boosbandanas_accessories",
+    "xOffset": 450,
+    "yOffset": 700
+  },
+  "collarsPINKREDBOO": {
+    "spritesheet": "boosbandanas_accessories",
+    "xOffset": 600,
+    "yOffset": 700
+  },
+  "collarsWHITEBOO": {
+    "spritesheet": "boosbandanas_accessories",
+    "xOffset": 750,
+    "yOffset": 700
+  },
+  "collarsLIGHTGRAYBOO": {
+    "spritesheet": "boosbandanas_accessories",
+    "xOffset": 0,
+    "yOffset": 1050
+  },
+  "collarsGRAYBOO": {
+    "spritesheet": "boosbandanas_accessories",
+    "xOffset": 150,
+    "yOffset": 1050
+  },
+  "collarsBLACKBOO": {
+    "spritesheet": "boosbandanas_accessories",
+    "xOffset": 300,
+    "yOffset": 1050
+  },
+  "collarsBROWNBOO": {
+    "spritesheet": "boosbandanas_accessories",
+    "xOffset": 450,
+    "yOffset": 1050
+  },
+  "acc_sailorMOON": {
+    "spritesheet": "sailormoon",
+    "xOffset": 0,
+    "yOffset": 0
+  },
+  "acc_sailorMERCURY": {
+    "spritesheet": "sailormoon",
+    "xOffset": 150,
+    "yOffset": 0
+  },
+  "acc_sailorMARS": {
+    "spritesheet": "sailormoon",
+    "xOffset": 300,
+    "yOffset": 0
+  },
+  "acc_sailorJUPITER": {
+    "spritesheet": "sailormoon",
+    "xOffset": 450,
+    "yOffset": 0
+  },
+  "acc_sailorVENUS": {
+    "spritesheet": "sailormoon",
+    "xOffset": 600,
+    "yOffset": 0
+  },
+  "acc_sailorTUXEDO MASK": {
+    "spritesheet": "sailormoon",
+    "xOffset": 750,
+    "yOffset": 0
+  },
+  "acc_sailorURANUS": {
+    "spritesheet": "sailormoon",
+    "xOffset": 0,
+    "yOffset": 350
+  },
+  "acc_sailorNEPTUNE": {
+    "spritesheet": "sailormoon",
+    "xOffset": 150,
+    "yOffset": 350
+  },
+  "acc_sailorPLUTO": {
+    "spritesheet": "sailormoon",
+    "xOffset": 300,
+    "yOffset": 350
+  },
+  "acc_sailorSATURN": {
+    "spritesheet": "sailormoon",
+    "xOffset": 450,
+    "yOffset": 350
+  },
+  "acc_sailorMINI MOON": {
+    "spritesheet": "sailormoon",
+    "xOffset": 600,
+    "yOffset": 350
+  },
+  "acc_sailorCRYSTAL BALL": {
+    "spritesheet": "sailormoon",
+    "xOffset": 750,
+    "yOffset": 350
+  },
+  "acc_randomDOGWOOD": {
+    "spritesheet": "randomaccessories",
+    "xOffset": 0,
+    "yOffset": 0
+  },
+  "acc_randomTREESTAR": {
+    "spritesheet": "randomaccessories",
+    "xOffset": 150,
+    "yOffset": 0
+  },
+  "acc_randomRACCOON LEAF": {
+    "spritesheet": "randomaccessories",
+    "xOffset": 300,
+    "yOffset": 0
+  },
+  "acc_randomWHITE RACCOON LEAF": {
+    "spritesheet": "randomaccessories",
+    "xOffset": 450,
+    "yOffset": 0
+  },
+  "acc_randomCHERRY BLOSSOM": {
+    "spritesheet": "randomaccessories",
+    "xOffset": 600,
+    "yOffset": 0
+  },
+  "acc_randomDAISY BLOOM": {
+    "spritesheet": "randomaccessories",
+    "xOffset": 750,
+    "yOffset": 0
+  },
+  "acc_randomFEATHERS": {
+    "spritesheet": "randomaccessories",
+    "xOffset": 0,
+    "yOffset": 350
+  },
+  "acc_randomRED ROSE": {
+    "spritesheet": "randomaccessories",
+    "xOffset": 150,
+    "yOffset": 350
+  },
+  "acc_randomWHITE ROSE": {
+    "spritesheet": "randomaccessories",
+    "xOffset": 300,
+    "yOffset": 350
+  },
+  "acc_randomPEBBLE": {
+    "spritesheet": "randomaccessories",
+    "xOffset": 450,
+    "yOffset": 350
+  },
+  "acc_randomPEBBLE COLLECTION": {
+    "spritesheet": "randomaccessories",
+    "xOffset": 600,
+    "yOffset": 350
+  },
+  "acc_randomGOLDEN FLOWER": {
+    "spritesheet": "randomaccessories",
+    "xOffset": 750,
+    "yOffset": 350
+  },
+  "acc_randomDANDELIONS": {
+    "spritesheet": "randomaccessories",
+    "xOffset": 0,
+    "yOffset": 700
+  },
+  "acc_randomDANDELION PUFFS": {
+    "spritesheet": "randomaccessories",
+    "xOffset": 150,
+    "yOffset": 700
+  },
+  "acc_randomDICE": {
+    "spritesheet": "randomaccessories",
+    "xOffset": 300,
+    "yOffset": 700
+  },
+  "acc_randomGOLDEN EARRINGS": {
+    "spritesheet": "randomaccessories",
+    "xOffset": 450,
+    "yOffset": 700
+  },
+  "acc_beetleFROG FRIEND": {
+    "spritesheet": "beetle_accessories",
+    "xOffset": 0,
+    "yOffset": 0
+  },
+  "acc_beetleCOWBOY HAT": {
+    "spritesheet": "beetle_accessories",
+    "xOffset": 150,
+    "yOffset": 0
+  },
+  "acc_beetleBUNNY HAT": {
+    "spritesheet": "beetle_accessories",
+    "xOffset": 300,
+    "yOffset": 0
+  },
+  "acc_beetleWINTER HAT": {
+    "spritesheet": "beetle_accessories",
+    "xOffset": 450,
+    "yOffset": 0
+  },
+  "acc_beetlePARTY HAT": {
+    "spritesheet": "beetle_accessories",
+    "xOffset": 600,
+    "yOffset": 0
+  },
+  "acc_beetleSANTA HAT": {
+    "spritesheet": "beetle_accessories",
+    "xOffset": 750,
+    "yOffset": 0
+  },
+  "acc_beetleBANANA HAT": {
+    "spritesheet": "beetle_accessories",
+    "xOffset": 0,
+    "yOffset": 350
+  },
+  "acc_beetleBAT WING SUIT": {
+    "spritesheet": "beetle_accessories",
+    "xOffset": 150,
+    "yOffset": 350
+  },
+  "acc_beetlePINK BOWTIE": {
+    "spritesheet": "beetle_accessories",
+    "xOffset": 300,
+    "yOffset": 350
+  },
+  "acc_beetleGRAY BOWTIE": {
+    "spritesheet": "beetle_accessories",
+    "xOffset": 450,
+    "yOffset": 350
+  },
+  "acc_beetlePINK SCARF": {
+    "spritesheet": "beetle_accessories",
+    "xOffset": 600,
+    "yOffset": 350
+  },
+  "acc_beetleBLUETAILED SKINK": {
+    "spritesheet": "beetle_accessories",
+    "xOffset": 0,
+    "yOffset": 700
+  },
+  "acc_beetleBLACKHEADED ORIOLE": {
+    "spritesheet": "beetle_accessories",
+    "xOffset": 150,
+    "yOffset": 700
+  },
+  "acc_beetleMILKSNAKE": {
+    "spritesheet": "beetle_accessories",
+    "xOffset": 300,
+    "yOffset": 700
+  },
+  "acc_beetleWORM FRIEND": {
+    "spritesheet": "beetle_accessories",
+    "xOffset": 450,
+    "yOffset": 700
+  },
+  "acc_beetlefeathersTHRUSH FEATHERS": {
+    "spritesheet": "beetle_feathers",
+    "xOffset": 0,
+    "yOffset": 0
+  },
+  "acc_beetlefeathersGOLDFINCH FEATHERS": {
+    "spritesheet": "beetle_feathers",
+    "xOffset": 150,
+    "yOffset": 0
+  },
+  "acc_beetlefeathersDOVE FEATHERS": {
+    "spritesheet": "beetle_feathers",
+    "xOffset": 300,
+    "yOffset": 0
+  },
+  "acc_beetlefeathersPEACOCK FEATHERS": {
+    "spritesheet": "beetle_feathers",
+    "xOffset": 450,
+    "yOffset": 0
+  },
+  "acc_beetlefeathersHAWK FEATHERS": {
+    "spritesheet": "beetle_feathers",
+    "xOffset": 600,
+    "yOffset": 0
+  },
+  "acc_beetlefeathersBLUE JAY FEATHERS": {
+    "spritesheet": "beetle_feathers",
+    "xOffset": 750,
+    "yOffset": 0
+  },
+  "acc_beetlefeathersROBIN FEATHERS": {
+    "spritesheet": "beetle_feathers",
+    "xOffset": 0,
+    "yOffset": 350
+  },
+  "acc_beetlefeathersFIERY FEATHERS": {
+    "spritesheet": "beetle_feathers",
+    "xOffset": 150,
+    "yOffset": 350
+  },
+  "acc_beetlefeathersSUNSET FEATHERS": {
+    "spritesheet": "beetle_feathers",
+    "xOffset": 300,
+    "yOffset": 350
+  },
+  "acc_beetlefeathersSILVER FEATHERS": {
+    "spritesheet": "beetle_feathers",
+    "xOffset": 450,
+    "yOffset": 350
+  },
+  "acc_lanternLANTERN": {
+    "spritesheet": "lanternacc",
+    "xOffset": 0,
+    "yOffset": 0
+  },
+  "acc_heartHEART CHARM": {
+    "spritesheet": "heartacc",
+    "xOffset": 0,
+    "yOffset": 0
+  },
+  "acc_moipaSILVER CELESTIAL CHARMS": {
+    "spritesheet": "moipaacc",
+    "xOffset": 0,
+    "yOffset": 0
+  },
+  "acc_moipaGOLDEN STAR CHARM": {
+    "spritesheet": "moipaacc",
+    "xOffset": 150,
+    "yOffset": 0
+  },
+  "acc_moipaGOLDEN CELESTIAL CHARMS": {
+    "spritesheet": "moipaacc",
+    "xOffset": 300,
+    "yOffset": 0
+  },
+  "acc_moipaCELESTIAL CHARMS": {
+    "spritesheet": "moipaacc",
+    "xOffset": 450,
+    "yOffset": 0
+  },
+  "collarsTRANSFEMBOW": {
+    "spritesheet": "pridebowcollars",
+    "xOffset": 0,
+    "yOffset": 0
+  },
+  "collarsDEMIBOYBOW": {
+    "spritesheet": "pridebowcollars",
+    "xOffset": 150,
+    "yOffset": 0
+  },
+  "collarsPANGENDERBOW": {
+    "spritesheet": "pridebowcollars",
+    "xOffset": 300,
+    "yOffset": 0
+  },
+  "collarsTRANSMASCBOW": {
+    "spritesheet": "pridebowcollars",
+    "xOffset": 450,
+    "yOffset": 0
+  },
+  "collarsINTERSEXBOW": {
+    "spritesheet": "pridebowcollars",
+    "xOffset": 600,
+    "yOffset": 0
+  },
+  "collarsGENDERQUEERBOW": {
+    "spritesheet": "pridebowcollars",
+    "xOffset": 750,
+    "yOffset": 0
+  },
+  "collarsAGENDERBOW": {
+    "spritesheet": "pridebowcollars",
+    "xOffset": 0,
+    "yOffset": 350
+  },
+  "collarsGENDERVOIDBOW": {
+    "spritesheet": "pridebowcollars",
+    "xOffset": 150,
+    "yOffset": 350
+  },
+  "collarsDEMIGIRLBOW": {
+    "spritesheet": "pridebowcollars",
+    "xOffset": 300,
+    "yOffset": 350
+  },
+  "collarsDEMINONBINARYBOW": {
+    "spritesheet": "pridebowcollars",
+    "xOffset": 450,
+    "yOffset": 350
+  },
+  "collarsDEMIFLUIDBOW": {
+    "spritesheet": "pridebowcollars",
+    "xOffset": 600,
+    "yOffset": 350
+  },
+  "collarsBIGENDERBOW": {
+    "spritesheet": "pridebowcollars",
+    "xOffset": 0,
+    "yOffset": 700
+  },
+  "collarsNONBINARYBOW": {
+    "spritesheet": "pridebowcollars",
+    "xOffset": 150,
+    "yOffset": 700
+  },
+  "collarsTRANSBOW": {
+    "spritesheet": "pridebowcollars",
+    "xOffset": 300,
+    "yOffset": 700
+  },
+  "collarsGENDERFLUIDBOW": {
+    "spritesheet": "pridebowcollars",
+    "xOffset": 450,
+    "yOffset": 700
+  },
+  "collarsGIRLFLUXCOLLAR": {
+    "spritesheet": "pridecollars",
+    "xOffset": 0,
+    "yOffset": 0
+  },
+  "collarsMINCOLLAR": {
+    "spritesheet": "pridecollars",
+    "xOffset": 150,
+    "yOffset": 0
+  },
+  "collarsGENDERFLUXCOLLAR": {
+    "spritesheet": "pridecollars",
+    "xOffset": 300,
+    "yOffset": 0
+  },
+  "collarsBOYFLUXCOLLAR": {
+    "spritesheet": "pridecollars",
+    "xOffset": 450,
+    "yOffset": 0
+  },
+  "collarsGENDERFAUNCOLLAR": {
+    "spritesheet": "pridecollars",
+    "xOffset": 600,
+    "yOffset": 0
+  },
+  "collarsGENDERFAECOLLAR": {
+    "spritesheet": "pridecollars",
+    "xOffset": 750,
+    "yOffset": 0
+  },
+  "collarsGRAYAROCOLLAR": {
+    "spritesheet": "pridecollars",
+    "xOffset": 0,
+    "yOffset": 350
+  },
+  "collarsXENOCOLLAR": {
+    "spritesheet": "pridecollars",
+    "xOffset": 150,
+    "yOffset": 350
+  },
+  "collarsNINCOLLAR": {
+    "spritesheet": "pridecollars",
+    "xOffset": 300,
+    "yOffset": 350
+  },
+  "collarsVOIDPUNKCOLLAR": {
+    "spritesheet": "pridecollars",
+    "xOffset": 450,
+    "yOffset": 350
+  },
+  "collarsUNLABELEDCOLLAR": {
+    "spritesheet": "pridecollars",
+    "xOffset": 600,
+    "yOffset": 350
+  },
+  "collarsGENDERFLORCOLLAR": {
+    "spritesheet": "pridecollars",
+    "xOffset": 0,
+    "yOffset": 700
+  },
+  "collarsGRAYACECOLLAR": {
+    "spritesheet": "pridecollars",
+    "xOffset": 150,
+    "yOffset": 700
+  },
+  "collarsFINCOLLAR": {
+    "spritesheet": "pridecollars",
+    "xOffset": 300,
+    "yOffset": 700
+  },
+  "collarsENBYFLUXCOLLAR": {
+    "spritesheet": "pridecollars",
+    "xOffset": 450,
+    "yOffset": 700
+  },
+  "collarsPRIDENYLONCOLLAR": {
+    "spritesheet": "pridenyloncollars",
+    "xOffset": 0,
+    "yOffset": 0
+  },
+  "collarsNEPTUNICNYLONCOLLAR": {
+    "spritesheet": "pridenyloncollars",
+    "xOffset": 150,
+    "yOffset": 0
+  },
+  "collarsPANNYLONCOLLAR": {
+    "spritesheet": "pridenyloncollars",
+    "xOffset": 300,
+    "yOffset": 0
+  },
+  "collarsURANICNYLONCOLLAR": {
+    "spritesheet": "pridenyloncollars",
+    "xOffset": 450,
+    "yOffset": 0
+  },
+  "collarsLESBIANNYLONCOLLAR": {
+    "spritesheet": "pridenyloncollars",
+    "xOffset": 600,
+    "yOffset": 0
+  },
+  "collarsMLMCNYLONCOLLAR": {
+    "spritesheet": "pridenyloncollars",
+    "xOffset": 750,
+    "yOffset": 0
+  },
+  "collarsAROMANTICNYLONCOLLAR": {
+    "spritesheet": "pridenyloncollars",
+    "xOffset": 0,
+    "yOffset": 350
+  },
+  "collarsMULTISEXUALNYLONCOLLAR": {
+    "spritesheet": "pridenyloncollars",
+    "xOffset": 150,
+    "yOffset": 350
+  },
+  "collarsQUEERNYLONCOLLAR": {
+    "spritesheet": "pridenyloncollars",
+    "xOffset": 300,
+    "yOffset": 350
+  },
+  "collarsAROACENYLONCOLLAR": {
+    "spritesheet": "pridenyloncollars",
+    "xOffset": 450,
+    "yOffset": 350
+  },
+  "collarsPOLYNYLONCOLLAR": {
+    "spritesheet": "pridenyloncollars",
+    "xOffset": 600,
+    "yOffset": 350
+  },
+  "collarsOMNINYLONCOLLAR": {
+    "spritesheet": "pridenyloncollars",
+    "xOffset": 0,
+    "yOffset": 700
+  },
+  "collarsACENYLONCOLLAR": {
+    "spritesheet": "pridenyloncollars",
+    "xOffset": 150,
+    "yOffset": 700
+  },
+  "collarsABRONYLONCOLLAR": {
+    "spritesheet": "pridenyloncollars",
+    "xOffset": 300,
+    "yOffset": 700
+  },
+  "collarsBINYLONCOLLAR": {
+    "spritesheet": "pridenyloncollars",
+    "xOffset": 450,
+    "yOffset": 700
   }
 }
