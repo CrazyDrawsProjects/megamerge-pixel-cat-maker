@@ -3289,23 +3289,23 @@
     "xOffset": 0,
     "yOffset": 0
   },
-  "sterstripeWHITE": {
-    "spritesheet": "sterstripecolours",
+  "stersinglestripeWHITE": {
+    "spritesheet": "stersinglestripecolours",
     "xOffset": 0,
     "yOffset": 0
   },
-  "sillystripeWHITE": {
-    "spritesheet": "sillystripecolours",
+  "sillysinglestripeWHITE": {
+    "spritesheet": "sillysinglestripecolours",
     "xOffset": 0,
     "yOffset": 0
   },
-  "dancestripeWHITE": {
-    "spritesheet": "dancestripecolours",
+  "dancesinglestripeWHITE": {
+    "spritesheet": "dancesinglestripecolours",
     "xOffset": 0,
     "yOffset": 0
   },
-  "mimistripeWHITE": {
-    "spritesheet": "mimistripecolours",
+  "mimisinglestripeWHITE": {
+    "spritesheet": "mimisinglestripecolours",
     "xOffset": 0,
     "yOffset": 0
   },
@@ -3794,23 +3794,23 @@
     "xOffset": 150,
     "yOffset": 0
   },
-  "sterstripePALEGREY": {
-    "spritesheet": "sterstripecolours",
+  "stersinglestripePALEGREY": {
+    "spritesheet": "stersinglestripecolours",
     "xOffset": 150,
     "yOffset": 0
   },
-  "sillystripePALEGREY": {
-    "spritesheet": "sillystripecolours",
+  "sillysinglestripePALEGREY": {
+    "spritesheet": "sillysinglestripecolours",
     "xOffset": 150,
     "yOffset": 0
   },
-  "dancestripePALEGREY": {
-    "spritesheet": "dancestripecolours",
+  "dancesinglestripePALEGREY": {
+    "spritesheet": "dancesinglestripecolours",
     "xOffset": 150,
     "yOffset": 0
   },
-  "mimistripePALEGREY": {
-    "spritesheet": "mimistripecolours",
+  "mimisinglestripePALEGREY": {
+    "spritesheet": "mimisinglestripecolours",
     "xOffset": 150,
     "yOffset": 0
   },
@@ -4299,23 +4299,23 @@
     "xOffset": 300,
     "yOffset": 0
   },
-  "sterstripeSILVER": {
-    "spritesheet": "sterstripecolours",
+  "stersinglestripeSILVER": {
+    "spritesheet": "stersinglestripecolours",
     "xOffset": 300,
     "yOffset": 0
   },
-  "sillystripeSILVER": {
-    "spritesheet": "sillystripecolours",
+  "sillysinglestripeSILVER": {
+    "spritesheet": "sillysinglestripecolours",
     "xOffset": 300,
     "yOffset": 0
   },
-  "dancestripeSILVER": {
-    "spritesheet": "dancestripecolours",
+  "dancesinglestripeSILVER": {
+    "spritesheet": "dancesinglestripecolours",
     "xOffset": 300,
     "yOffset": 0
   },
-  "mimistripeSILVER": {
-    "spritesheet": "mimistripecolours",
+  "mimisinglestripeSILVER": {
+    "spritesheet": "mimisinglestripecolours",
     "xOffset": 300,
     "yOffset": 0
   },
@@ -4804,23 +4804,23 @@
     "xOffset": 450,
     "yOffset": 0
   },
-  "sterstripeGREY": {
-    "spritesheet": "sterstripecolours",
+  "stersinglestripeGREY": {
+    "spritesheet": "stersinglestripecolours",
     "xOffset": 450,
     "yOffset": 0
   },
-  "sillystripeGREY": {
-    "spritesheet": "sillystripecolours",
+  "sillysinglestripeGREY": {
+    "spritesheet": "sillysinglestripecolours",
     "xOffset": 450,
     "yOffset": 0
   },
-  "dancestripeGREY": {
-    "spritesheet": "dancestripecolours",
+  "dancesinglestripeGREY": {
+    "spritesheet": "dancesinglestripecolours",
     "xOffset": 450,
     "yOffset": 0
   },
-  "mimistripeGREY": {
-    "spritesheet": "mimistripecolours",
+  "mimisinglestripeGREY": {
+    "spritesheet": "mimisinglestripecolours",
     "xOffset": 450,
     "yOffset": 0
   },
@@ -5309,23 +5309,23 @@
     "xOffset": 600,
     "yOffset": 0
   },
-  "sterstripeDARKGREY": {
-    "spritesheet": "sterstripecolours",
+  "stersinglestripeDARKGREY": {
+    "spritesheet": "stersinglestripecolours",
     "xOffset": 600,
     "yOffset": 0
   },
-  "sillystripeDARKGREY": {
-    "spritesheet": "sillystripecolours",
+  "sillysinglestripeDARKGREY": {
+    "spritesheet": "sillysinglestripecolours",
     "xOffset": 600,
     "yOffset": 0
   },
-  "dancestripeDARKGREY": {
-    "spritesheet": "dancestripecolours",
+  "dancesinglestripeDARKGREY": {
+    "spritesheet": "dancesinglestripecolours",
     "xOffset": 600,
     "yOffset": 0
   },
-  "mimistripeDARKGREY": {
-    "spritesheet": "mimistripecolours",
+  "mimisinglestripeDARKGREY": {
+    "spritesheet": "mimisinglestripecolours",
     "xOffset": 600,
     "yOffset": 0
   },
@@ -5814,23 +5814,23 @@
     "xOffset": 750,
     "yOffset": 0
   },
-  "sterstripeGHOST": {
-    "spritesheet": "sterstripecolours",
+  "stersinglestripeGHOST": {
+    "spritesheet": "stersinglestripecolours",
     "xOffset": 750,
     "yOffset": 0
   },
-  "sillystripeGHOST": {
-    "spritesheet": "sillystripecolours",
+  "sillysinglestripeGHOST": {
+    "spritesheet": "sillysinglestripecolours",
     "xOffset": 750,
     "yOffset": 0
   },
-  "dancestripeGHOST": {
-    "spritesheet": "dancestripecolours",
+  "dancesinglestripeGHOST": {
+    "spritesheet": "dancesinglestripecolours",
     "xOffset": 750,
     "yOffset": 0
   },
-  "mimistripeGHOST": {
-    "spritesheet": "mimistripecolours",
+  "mimisinglestripeGHOST": {
+    "spritesheet": "mimisinglestripecolours",
     "xOffset": 750,
     "yOffset": 0
   },
@@ -6319,23 +6319,23 @@
     "xOffset": 900,
     "yOffset": 0
   },
-  "sterstripeBLACK": {
-    "spritesheet": "sterstripecolours",
+  "stersinglestripeBLACK": {
+    "spritesheet": "stersinglestripecolours",
     "xOffset": 900,
     "yOffset": 0
   },
-  "sillystripeBLACK": {
-    "spritesheet": "sillystripecolours",
+  "sillysinglestripeBLACK": {
+    "spritesheet": "sillysinglestripecolours",
     "xOffset": 900,
     "yOffset": 0
   },
-  "dancestripeBLACK": {
-    "spritesheet": "dancestripecolours",
+  "dancesinglestripeBLACK": {
+    "spritesheet": "dancesinglestripecolours",
     "xOffset": 900,
     "yOffset": 0
   },
-  "mimistripeBLACK": {
-    "spritesheet": "mimistripecolours",
+  "mimisinglestripeBLACK": {
+    "spritesheet": "mimisinglestripecolours",
     "xOffset": 900,
     "yOffset": 0
   },
@@ -6824,23 +6824,23 @@
     "xOffset": 0,
     "yOffset": 350
   },
-  "sterstripeCREAM": {
-    "spritesheet": "sterstripecolours",
+  "stersinglestripeCREAM": {
+    "spritesheet": "stersinglestripecolours",
     "xOffset": 0,
     "yOffset": 350
   },
-  "sillystripeCREAM": {
-    "spritesheet": "sillystripecolours",
+  "sillysinglestripeCREAM": {
+    "spritesheet": "sillysinglestripecolours",
     "xOffset": 0,
     "yOffset": 350
   },
-  "dancestripeCREAM": {
-    "spritesheet": "dancestripecolours",
+  "dancesinglestripeCREAM": {
+    "spritesheet": "dancesinglestripecolours",
     "xOffset": 0,
     "yOffset": 350
   },
-  "mimistripeCREAM": {
-    "spritesheet": "mimistripecolours",
+  "mimisinglestripeCREAM": {
+    "spritesheet": "mimisinglestripecolours",
     "xOffset": 0,
     "yOffset": 350
   },
@@ -7329,23 +7329,23 @@
     "xOffset": 150,
     "yOffset": 350
   },
-  "sterstripePALEGINGER": {
-    "spritesheet": "sterstripecolours",
+  "stersinglestripePALEGINGER": {
+    "spritesheet": "stersinglestripecolours",
     "xOffset": 150,
     "yOffset": 350
   },
-  "sillystripePALEGINGER": {
-    "spritesheet": "sillystripecolours",
+  "sillysinglestripePALEGINGER": {
+    "spritesheet": "sillysinglestripecolours",
     "xOffset": 150,
     "yOffset": 350
   },
-  "dancestripePALEGINGER": {
-    "spritesheet": "dancestripecolours",
+  "dancesinglestripePALEGINGER": {
+    "spritesheet": "dancesinglestripecolours",
     "xOffset": 150,
     "yOffset": 350
   },
-  "mimistripePALEGINGER": {
-    "spritesheet": "mimistripecolours",
+  "mimisinglestripePALEGINGER": {
+    "spritesheet": "mimisinglestripecolours",
     "xOffset": 150,
     "yOffset": 350
   },
@@ -7834,23 +7834,23 @@
     "xOffset": 300,
     "yOffset": 350
   },
-  "sterstripeGOLDEN": {
-    "spritesheet": "sterstripecolours",
+  "stersinglestripeGOLDEN": {
+    "spritesheet": "stersinglestripecolours",
     "xOffset": 300,
     "yOffset": 350
   },
-  "sillystripeGOLDEN": {
-    "spritesheet": "sillystripecolours",
+  "sillysinglestripeGOLDEN": {
+    "spritesheet": "sillysinglestripecolours",
     "xOffset": 300,
     "yOffset": 350
   },
-  "dancestripeGOLDEN": {
-    "spritesheet": "dancestripecolours",
+  "dancesinglestripeGOLDEN": {
+    "spritesheet": "dancesinglestripecolours",
     "xOffset": 300,
     "yOffset": 350
   },
-  "mimistripeGOLDEN": {
-    "spritesheet": "mimistripecolours",
+  "mimisinglestripeGOLDEN": {
+    "spritesheet": "mimisinglestripecolours",
     "xOffset": 300,
     "yOffset": 350
   },
@@ -8339,23 +8339,23 @@
     "xOffset": 450,
     "yOffset": 350
   },
-  "sterstripeGINGER": {
-    "spritesheet": "sterstripecolours",
+  "stersinglestripeGINGER": {
+    "spritesheet": "stersinglestripecolours",
     "xOffset": 450,
     "yOffset": 350
   },
-  "sillystripeGINGER": {
-    "spritesheet": "sillystripecolours",
+  "sillysinglestripeGINGER": {
+    "spritesheet": "sillysinglestripecolours",
     "xOffset": 450,
     "yOffset": 350
   },
-  "dancestripeGINGER": {
-    "spritesheet": "dancestripecolours",
+  "dancesinglestripeGINGER": {
+    "spritesheet": "dancesinglestripecolours",
     "xOffset": 450,
     "yOffset": 350
   },
-  "mimistripeGINGER": {
-    "spritesheet": "mimistripecolours",
+  "mimisinglestripeGINGER": {
+    "spritesheet": "mimisinglestripecolours",
     "xOffset": 450,
     "yOffset": 350
   },
@@ -8844,23 +8844,23 @@
     "xOffset": 600,
     "yOffset": 350
   },
-  "sterstripeDARKGINGER": {
-    "spritesheet": "sterstripecolours",
+  "stersinglestripeDARKGINGER": {
+    "spritesheet": "stersinglestripecolours",
     "xOffset": 600,
     "yOffset": 350
   },
-  "sillystripeDARKGINGER": {
-    "spritesheet": "sillystripecolours",
+  "sillysinglestripeDARKGINGER": {
+    "spritesheet": "sillysinglestripecolours",
     "xOffset": 600,
     "yOffset": 350
   },
-  "dancestripeDARKGINGER": {
-    "spritesheet": "dancestripecolours",
+  "dancesinglestripeDARKGINGER": {
+    "spritesheet": "dancesinglestripecolours",
     "xOffset": 600,
     "yOffset": 350
   },
-  "mimistripeDARKGINGER": {
-    "spritesheet": "mimistripecolours",
+  "mimisinglestripeDARKGINGER": {
+    "spritesheet": "mimisinglestripecolours",
     "xOffset": 600,
     "yOffset": 350
   },
@@ -9349,23 +9349,23 @@
     "xOffset": 750,
     "yOffset": 350
   },
-  "sterstripeSIENNA": {
-    "spritesheet": "sterstripecolours",
+  "stersinglestripeSIENNA": {
+    "spritesheet": "stersinglestripecolours",
     "xOffset": 750,
     "yOffset": 350
   },
-  "sillystripeSIENNA": {
-    "spritesheet": "sillystripecolours",
+  "sillysinglestripeSIENNA": {
+    "spritesheet": "sillysinglestripecolours",
     "xOffset": 750,
     "yOffset": 350
   },
-  "dancestripeSIENNA": {
-    "spritesheet": "dancestripecolours",
+  "dancesinglestripeSIENNA": {
+    "spritesheet": "dancesinglestripecolours",
     "xOffset": 750,
     "yOffset": 350
   },
-  "mimistripeSIENNA": {
-    "spritesheet": "mimistripecolours",
+  "mimisinglestripeSIENNA": {
+    "spritesheet": "mimisinglestripecolours",
     "xOffset": 750,
     "yOffset": 350
   },
@@ -9854,23 +9854,23 @@
     "xOffset": 0,
     "yOffset": 700
   },
-  "sterstripeLIGHTBROWN": {
-    "spritesheet": "sterstripecolours",
+  "stersinglestripeLIGHTBROWN": {
+    "spritesheet": "stersinglestripecolours",
     "xOffset": 0,
     "yOffset": 700
   },
-  "sillystripeLIGHTBROWN": {
-    "spritesheet": "sillystripecolours",
+  "sillysinglestripeLIGHTBROWN": {
+    "spritesheet": "sillysinglestripecolours",
     "xOffset": 0,
     "yOffset": 700
   },
-  "dancestripeLIGHTBROWN": {
-    "spritesheet": "dancestripecolours",
+  "dancesinglestripeLIGHTBROWN": {
+    "spritesheet": "dancesinglestripecolours",
     "xOffset": 0,
     "yOffset": 700
   },
-  "mimistripeLIGHTBROWN": {
-    "spritesheet": "mimistripecolours",
+  "mimisinglestripeLIGHTBROWN": {
+    "spritesheet": "mimisinglestripecolours",
     "xOffset": 0,
     "yOffset": 700
   },
@@ -10359,23 +10359,23 @@
     "xOffset": 150,
     "yOffset": 700
   },
-  "sterstripeLILAC": {
-    "spritesheet": "sterstripecolours",
+  "stersinglestripeLILAC": {
+    "spritesheet": "stersinglestripecolours",
     "xOffset": 150,
     "yOffset": 700
   },
-  "sillystripeLILAC": {
-    "spritesheet": "sillystripecolours",
+  "sillysinglestripeLILAC": {
+    "spritesheet": "sillysinglestripecolours",
     "xOffset": 150,
     "yOffset": 700
   },
-  "dancestripeLILAC": {
-    "spritesheet": "dancestripecolours",
+  "dancesinglestripeLILAC": {
+    "spritesheet": "dancesinglestripecolours",
     "xOffset": 150,
     "yOffset": 700
   },
-  "mimistripeLILAC": {
-    "spritesheet": "mimistripecolours",
+  "mimisinglestripeLILAC": {
+    "spritesheet": "mimisinglestripecolours",
     "xOffset": 150,
     "yOffset": 700
   },
@@ -10864,23 +10864,23 @@
     "xOffset": 300,
     "yOffset": 700
   },
-  "sterstripeBROWN": {
-    "spritesheet": "sterstripecolours",
+  "stersinglestripeBROWN": {
+    "spritesheet": "stersinglestripecolours",
     "xOffset": 300,
     "yOffset": 700
   },
-  "sillystripeBROWN": {
-    "spritesheet": "sillystripecolours",
+  "sillysinglestripeBROWN": {
+    "spritesheet": "sillysinglestripecolours",
     "xOffset": 300,
     "yOffset": 700
   },
-  "dancestripeBROWN": {
-    "spritesheet": "dancestripecolours",
+  "dancesinglestripeBROWN": {
+    "spritesheet": "dancesinglestripecolours",
     "xOffset": 300,
     "yOffset": 700
   },
-  "mimistripeBROWN": {
-    "spritesheet": "mimistripecolours",
+  "mimisinglestripeBROWN": {
+    "spritesheet": "mimisinglestripecolours",
     "xOffset": 300,
     "yOffset": 700
   },
@@ -11369,23 +11369,23 @@
     "xOffset": 450,
     "yOffset": 700
   },
-  "sterstripeGOLDEN-BROWN": {
-    "spritesheet": "sterstripecolours",
+  "stersinglestripeGOLDEN-BROWN": {
+    "spritesheet": "stersinglestripecolours",
     "xOffset": 450,
     "yOffset": 700
   },
-  "sillystripeGOLDEN-BROWN": {
-    "spritesheet": "sillystripecolours",
+  "sillysinglestripeGOLDEN-BROWN": {
+    "spritesheet": "sillysinglestripecolours",
     "xOffset": 450,
     "yOffset": 700
   },
-  "dancestripeGOLDEN-BROWN": {
-    "spritesheet": "dancestripecolours",
+  "dancesinglestripeGOLDEN-BROWN": {
+    "spritesheet": "dancesinglestripecolours",
     "xOffset": 450,
     "yOffset": 700
   },
-  "mimistripeGOLDEN-BROWN": {
-    "spritesheet": "mimistripecolours",
+  "mimisinglestripeGOLDEN-BROWN": {
+    "spritesheet": "mimisinglestripecolours",
     "xOffset": 450,
     "yOffset": 700
   },
@@ -11874,23 +11874,23 @@
     "xOffset": 600,
     "yOffset": 700
   },
-  "sterstripeDARKBROWN": {
-    "spritesheet": "sterstripecolours",
+  "stersinglestripeDARKBROWN": {
+    "spritesheet": "stersinglestripecolours",
     "xOffset": 600,
     "yOffset": 700
   },
-  "sillystripeDARKBROWN": {
-    "spritesheet": "sillystripecolours",
+  "sillysinglestripeDARKBROWN": {
+    "spritesheet": "sillysinglestripecolours",
     "xOffset": 600,
     "yOffset": 700
   },
-  "dancestripeDARKBROWN": {
-    "spritesheet": "dancestripecolours",
+  "dancesinglestripeDARKBROWN": {
+    "spritesheet": "dancesinglestripecolours",
     "xOffset": 600,
     "yOffset": 700
   },
-  "mimistripeDARKBROWN": {
-    "spritesheet": "mimistripecolours",
+  "mimisinglestripeDARKBROWN": {
+    "spritesheet": "mimisinglestripecolours",
     "xOffset": 600,
     "yOffset": 700
   },
@@ -12379,23 +12379,23 @@
     "xOffset": 750,
     "yOffset": 700
   },
-  "sterstripeCHOCOLATE": {
-    "spritesheet": "sterstripecolours",
+  "stersinglestripeCHOCOLATE": {
+    "spritesheet": "stersinglestripecolours",
     "xOffset": 750,
     "yOffset": 700
   },
-  "sillystripeCHOCOLATE": {
-    "spritesheet": "sillystripecolours",
+  "sillysinglestripeCHOCOLATE": {
+    "spritesheet": "sillysinglestripecolours",
     "xOffset": 750,
     "yOffset": 700
   },
-  "dancestripeCHOCOLATE": {
-    "spritesheet": "dancestripecolours",
+  "dancesinglestripeCHOCOLATE": {
+    "spritesheet": "dancesinglestripecolours",
     "xOffset": 750,
     "yOffset": 700
   },
-  "mimistripeCHOCOLATE": {
-    "spritesheet": "mimistripecolours",
+  "mimisinglestripeCHOCOLATE": {
+    "spritesheet": "mimisinglestripecolours",
     "xOffset": 750,
     "yOffset": 700
   },
