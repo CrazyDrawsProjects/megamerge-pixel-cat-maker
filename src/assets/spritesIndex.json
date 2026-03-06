@@ -16434,32 +16434,32 @@
     "xOffset": 450,
     "yOffset": 350
   },
-  "acc_lanternLANTERN": {
+  "acc_twolegstuffLANTERN": {
     "spritesheet": "lanternacc",
     "xOffset": 0,
     "yOffset": 0
   },
-  "acc_heartHEART CHARM": {
+  "acc_twolegstuffHEART CHARM": {
     "spritesheet": "heartacc",
     "xOffset": 0,
     "yOffset": 0
   },
-  "acc_moipaSILVER CELESTIAL CHARMS": {
+  "acc_twolegstuffSILVER CELESTIAL CHARMS": {
     "spritesheet": "moipaacc",
     "xOffset": 0,
     "yOffset": 0
   },
-  "acc_moipaGOLDEN STAR CHARM": {
+  "acc_twolegstuffGOLDEN STAR CHARM": {
     "spritesheet": "moipaacc",
     "xOffset": 150,
     "yOffset": 0
   },
-  "acc_moipaGOLDEN CELESTIAL CHARMS": {
+  "acc_twolegstuffGOLDEN CELESTIAL CHARMS": {
     "spritesheet": "moipaacc",
     "xOffset": 300,
     "yOffset": 0
   },
-  "acc_moipaCELESTIAL CHARMS": {
+  "acc_twolegstuffCELESTIAL CHARMS": {
     "spritesheet": "moipaacc",
     "xOffset": 450,
     "yOffset": 0
